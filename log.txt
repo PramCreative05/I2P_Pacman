@@ -1,0 +1,5579 @@
+There are total 10 supported mouse buttons
+Allegro5 initialized
+loaded font: Assets/OpenSans-Regular.ttf with size 30
+loaded font: Assets/Minecraft.ttf with size 30
+loaded font: Assets/Minecraft.ttf with size 15
+loaded audio: Assets/Music/original_theme.ogg
+loaded audio: Assets/Music/pacman-chomp.ogg
+loaded audio: Assets/Music/pacman_death.ogg
+loaded audio: Assets/Music/pacman_eatghost.ogg
+loaded audio: Assets/Music/pacman_intermission.ogg
+loaded audio: Assets/Music/fail.ogg
+Menu scene created
+Change scene from (unnamed) to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/rankRaw.png
+loaded image: Assets/rankRaw(1).png
+loaded image: Assets/btnJohn(1).png
+loaded image: Assets/btnJohn.png
+loaded image: Assets/p_c.png
+loaded image: Assets/p_c(1).png
+loaded image: Assets/title.png
+Total Rows Found
+Ready to parse content
+Parsed & Sorted
+Game initialized
+Game start event loop
+Key with keycode 67 down
+Start scene created
+Change scene from Menu to Start
+Menu Destroyed
+Map File Path: Assets/map_nthu.txt
+
+Ready to parse txt row = 30 col = 36
+Malloc Complete: Start to parse
+Parsed: # at row: 0 col: 0
+Parsed: # at row: 0 col: 1
+Parsed: # at row: 0 col: 2
+Parsed: # at row: 0 col: 3
+Parsed: # at row: 0 col: 4
+Parsed: # at row: 0 col: 5
+Parsed: # at row: 0 col: 6
+Parsed: # at row: 0 col: 7
+Parsed: # at row: 0 col: 8
+Parsed: # at row: 0 col: 9
+Parsed: # at row: 0 col: 10
+Parsed: # at row: 0 col: 11
+Parsed: # at row: 0 col: 12
+Parsed: # at row: 0 col: 13
+Parsed: # at row: 0 col: 14
+Parsed: # at row: 0 col: 15
+Parsed: # at row: 0 col: 16
+Parsed: # at row: 0 col: 17
+Parsed: # at row: 0 col: 18
+Parsed: # at row: 0 col: 19
+Parsed: # at row: 0 col: 20
+Parsed: # at row: 0 col: 21
+Parsed: # at row: 0 col: 22
+Parsed: # at row: 0 col: 23
+Parsed: # at row: 0 col: 24
+Parsed: # at row: 0 col: 25
+Parsed: # at row: 0 col: 26
+Parsed: # at row: 0 col: 27
+Parsed: # at row: 0 col: 28
+Parsed: # at row: 0 col: 29
+Parsed: # at row: 0 col: 30
+Parsed: # at row: 0 col: 31
+Parsed: # at row: 0 col: 32
+Parsed: # at row: 0 col: 33
+Parsed: # at row: 0 col: 34
+Parsed: # at row: 0 col: 35
+Parsed: # at row: 1 col: 0
+Parsed: . at row: 1 col: 1
+Parsed: . at row: 1 col: 2
+Parsed: . at row: 1 col: 3
+Parsed: . at row: 1 col: 4
+Parsed: . at row: 1 col: 5
+Parsed: . at row: 1 col: 6
+Parsed: . at row: 1 col: 7
+Parsed: . at row: 1 col: 8
+Parsed: . at row: 1 col: 9
+Parsed: . at row: 1 col: 10
+Parsed: . at row: 1 col: 11
+Parsed: . at row: 1 col: 12
+Parsed: . at row: 1 col: 13
+Parsed: . at row: 1 col: 14
+Parsed: . at row: 1 col: 15
+Parsed: . at row: 1 col: 16
+Parsed: . at row: 1 col: 17
+Parsed: . at row: 1 col: 18
+Parsed: # at row: 1 col: 19
+Parsed: # at row: 1 col: 20
+Parsed: # at row: 1 col: 21
+Parsed: . at row: 1 col: 22
+Parsed: . at row: 1 col: 23
+Parsed: . at row: 1 col: 24
+Parsed: . at row: 1 col: 25
+Parsed: . at row: 1 col: 26
+Parsed: . at row: 1 col: 27
+Parsed: . at row: 1 col: 28
+Parsed: . at row: 1 col: 29
+Parsed: . at row: 1 col: 30
+Parsed: # at row: 1 col: 31
+Parsed: # at row: 1 col: 32
+Parsed: # at row: 1 col: 33
+Parsed: # at row: 1 col: 34
+Parsed: # at row: 1 col: 35
+Parsed: # at row: 2 col: 0
+Parsed: . at row: 2 col: 1
+Parsed: # at row: 2 col: 2
+Parsed: # at row: 2 col: 3
+Parsed: # at row: 2 col: 4
+Parsed: # at row: 2 col: 5
+Parsed: . at row: 2 col: 6
+Parsed: # at row: 2 col: 7
+Parsed: # at row: 2 col: 8
+Parsed: # at row: 2 col: 9
+Parsed: # at row: 2 col: 10
+Parsed: # at row: 2 col: 11
+Parsed: # at row: 2 col: 12
+Parsed: # at row: 2 col: 13
+Parsed: # at row: 2 col: 14
+Parsed: # at row: 2 col: 15
+Parsed: # at row: 2 col: 16
+Parsed: # at row: 2 col: 17
+Parsed: . at row: 2 col: 18
+Parsed: . at row: 2 col: 19
+Parsed: . at row: 2 col: 20
+Parsed: . at row: 2 col: 21
+Parsed: . at row: 2 col: 22
+Parsed: # at row: 2 col: 23
+Parsed: # at row: 2 col: 24
+Parsed: # at row: 2 col: 25
+Parsed: # at row: 2 col: 26
+Parsed: # at row: 2 col: 27
+Parsed: # at row: 2 col: 28
+Parsed: # at row: 2 col: 29
+Parsed: . at row: 2 col: 30
+Parsed: . at row: 2 col: 31
+Parsed: . at row: 2 col: 32
+Parsed: . at row: 2 col: 33
+Parsed: . at row: 2 col: 34
+Parsed: # at row: 2 col: 35
+Parsed: # at row: 3 col: 0
+Parsed: . at row: 3 col: 1
+Parsed: # at row: 3 col: 2
+Parsed: # at row: 3 col: 3
+Parsed: # at row: 3 col: 4
+Parsed: # at row: 3 col: 5
+Parsed: . at row: 3 col: 6
+Parsed: # at row: 3 col: 7
+Parsed: . at row: 3 col: 8
+Parsed: . at row: 3 col: 9
+Parsed: . at row: 3 col: 10
+Parsed: . at row: 3 col: 11
+Parsed: . at row: 3 col: 12
+Parsed: . at row: 3 col: 13
+Parsed: . at row: 3 col: 14
+Parsed: . at row: 3 col: 15
+Parsed: . at row: 3 col: 16
+Parsed: . at row: 3 col: 17
+Parsed: . at row: 3 col: 18
+Parsed: # at row: 3 col: 19
+Parsed: # at row: 3 col: 20
+Parsed: # at row: 3 col: 21
+Parsed: . at row: 3 col: 22
+Parsed: . at row: 3 col: 23
+Parsed: . at row: 3 col: 24
+Parsed: . at row: 3 col: 25
+Parsed: . at row: 3 col: 26
+Parsed: # at row: 3 col: 27
+Parsed: B at row: 3 col: 28
+Parsed: # at row: 3 col: 29
+Parsed: . at row: 3 col: 30
+Parsed: # at row: 3 col: 31
+Parsed: # at row: 3 col: 32
+Parsed: # at row: 3 col: 33
+Parsed: . at row: 3 col: 34
+Parsed: # at row: 3 col: 35
+Parsed: # at row: 4 col: 0
+Parsed: . at row: 4 col: 1
+Parsed: P at row: 4 col: 2
+Parsed: . at row: 4 col: 3
+Parsed: . at row: 4 col: 4
+Parsed: . at row: 4 col: 5
+Parsed: . at row: 4 col: 6
+Parsed: . at row: 4 col: 7
+Parsed: . at row: 4 col: 8
+Parsed: # at row: 4 col: 9
+Parsed: # at row: 4 col: 10
+Parsed: # at row: 4 col: 11
+Parsed: # at row: 4 col: 12
+Parsed: # at row: 4 col: 13
+Parsed: # at row: 4 col: 14
+Parsed: # at row: 4 col: 15
+Parsed: # at row: 4 col: 16
+Parsed: # at row: 4 col: 17
+Parsed: . at row: 4 col: 18
+Parsed: . at row: 4 col: 19
+Parsed: . at row: 4 col: 20
+Parsed: . at row: 4 col: 21
+Parsed: . at row: 4 col: 22
+Parsed: # at row: 4 col: 23
+Parsed: . at row: 4 col: 24
+Parsed: # at row: 4 col: 25
+Parsed: . at row: 4 col: 26
+Parsed: # at row: 4 col: 27
+Parsed: # at row: 4 col: 28
+Parsed: # at row: 4 col: 29
+Parsed: . at row: 4 col: 30
+Parsed: # at row: 4 col: 31
+Parsed: B at row: 4 col: 32
+Parsed: # at row: 4 col: 33
+Parsed: . at row: 4 col: 34
+Parsed: # at row: 4 col: 35
+Parsed: # at row: 5 col: 0
+Parsed: . at row: 5 col: 1
+Parsed: # at row: 5 col: 2
+Parsed: # at row: 5 col: 3
+Parsed: # at row: 5 col: 4
+Parsed: # at row: 5 col: 5
+Parsed: # at row: 5 col: 6
+Parsed: . at row: 5 col: 7
+Parsed: # at row: 5 col: 8
+Parsed: # at row: 5 col: 9
+Parsed: # at row: 5 col: 10
+Parsed: B at row: 5 col: 11
+Parsed: B at row: 5 col: 12
+Parsed: B at row: 5 col: 13
+Parsed: B at row: 5 col: 14
+Parsed: B at row: 5 col: 15
+Parsed: B at row: 5 col: 16
+Parsed: # at row: 5 col: 17
+Parsed: # at row: 5 col: 18
+Parsed: # at row: 5 col: 19
+Parsed: . at row: 5 col: 20
+Parsed: # at row: 5 col: 21
+Parsed: # at row: 5 col: 22
+Parsed: # at row: 5 col: 23
+Parsed: . at row: 5 col: 24
+Parsed: # at row: 5 col: 25
+Parsed: . at row: 5 col: 26
+Parsed: # at row: 5 col: 27
+Parsed: P at row: 5 col: 28
+Parsed: # at row: 5 col: 29
+Parsed: . at row: 5 col: 30
+Parsed: # at row: 5 col: 31
+Parsed: B at row: 5 col: 32
+Parsed: # at row: 5 col: 33
+Parsed: . at row: 5 col: 34
+Parsed: # at row: 5 col: 35
+Parsed: # at row: 6 col: 0
+Parsed: . at row: 6 col: 1
+Parsed: # at row: 6 col: 2
+Parsed: B at row: 6 col: 3
+Parsed: B at row: 6 col: 4
+Parsed: B at row: 6 col: 5
+Parsed: # at row: 6 col: 6
+Parsed: . at row: 6 col: 7
+Parsed: . at row: 6 col: 8
+Parsed: . at row: 6 col: 9
+Parsed: # at row: 6 col: 10
+Parsed: B at row: 6 col: 11
+Parsed: B at row: 6 col: 12
+Parsed: B at row: 6 col: 13
+Parsed: B at row: 6 col: 14
+Parsed: B at row: 6 col: 15
+Parsed: B at row: 6 col: 16
+Parsed: B at row: 6 col: 17
+Parsed: B at row: 6 col: 18
+Parsed: # at row: 6 col: 19
+Parsed: . at row: 6 col: 20
+Parsed: # at row: 6 col: 21
+Parsed: # at row: 6 col: 22
+Parsed: # at row: 6 col: 23
+Parsed: . at row: 6 col: 24
+Parsed: # at row: 6 col: 25
+Parsed: . at row: 6 col: 26
+Parsed: # at row: 6 col: 27
+Parsed: . at row: 6 col: 28
+Parsed: # at row: 6 col: 29
+Parsed: . at row: 6 col: 30
+Parsed: # at row: 6 col: 31
+Parsed: B at row: 6 col: 32
+Parsed: # at row: 6 col: 33
+Parsed: . at row: 6 col: 34
+Parsed: # at row: 6 col: 35
+Parsed: # at row: 7 col: 0
+Parsed: . at row: 7 col: 1
+Parsed: # at row: 7 col: 2
+Parsed: B at row: 7 col: 3
+Parsed: B at row: 7 col: 4
+Parsed: B at row: 7 col: 5
+Parsed: # at row: 7 col: 6
+Parsed: . at row: 7 col: 7
+Parsed: # at row: 7 col: 8
+Parsed: . at row: 7 col: 9
+Parsed: # at row: 7 col: 10
+Parsed: B at row: 7 col: 11
+Parsed: B at row: 7 col: 12
+Parsed: B at row: 7 col: 13
+Parsed: B at row: 7 col: 14
+Parsed: B at row: 7 col: 15
+Parsed: B at row: 7 col: 16
+Parsed: B at row: 7 col: 17
+Parsed: B at row: 7 col: 18
+Parsed: # at row: 7 col: 19
+Parsed: . at row: 7 col: 20
+Parsed: # at row: 7 col: 21
+Parsed: # at row: 7 col: 22
+Parsed: # at row: 7 col: 23
+Parsed: . at row: 7 col: 24
+Parsed: # at row: 7 col: 25
+Parsed: . at row: 7 col: 26
+Parsed: . at row: 7 col: 27
+Parsed: . at row: 7 col: 28
+Parsed: # at row: 7 col: 29
+Parsed: . at row: 7 col: 30
+Parsed: # at row: 7 col: 31
+Parsed: B at row: 7 col: 32
+Parsed: # at row: 7 col: 33
+Parsed: . at row: 7 col: 34
+Parsed: # at row: 7 col: 35
+Parsed: # at row: 8 col: 0
+Parsed: . at row: 8 col: 1
+Parsed: # at row: 8 col: 2
+Parsed: # at row: 8 col: 3
+Parsed: # at row: 8 col: 4
+Parsed: # at row: 8 col: 5
+Parsed: # at row: 8 col: 6
+Parsed: . at row: 8 col: 7
+Parsed: # at row: 8 col: 8
+Parsed: . at row: 8 col: 9
+Parsed: # at row: 8 col: 10
+Parsed: # at row: 8 col: 11
+Parsed: # at row: 8 col: 12
+Parsed: # at row: 8 col: 13
+Parsed: # at row: 8 col: 14
+Parsed: # at row: 8 col: 15
+Parsed: # at row: 8 col: 16
+Parsed: # at row: 8 col: 17
+Parsed: # at row: 8 col: 18
+Parsed: # at row: 8 col: 19
+Parsed: . at row: 8 col: 20
+Parsed: # at row: 8 col: 21
+Parsed: # at row: 8 col: 22
+Parsed: # at row: 8 col: 23
+Parsed: . at row: 8 col: 24
+Parsed: # at row: 8 col: 25
+Parsed: # at row: 8 col: 26
+Parsed: # at row: 8 col: 27
+Parsed: # at row: 8 col: 28
+Parsed: # at row: 8 col: 29
+Parsed: . at row: 8 col: 30
+Parsed: # at row: 8 col: 31
+Parsed: # at row: 8 col: 32
+Parsed: # at row: 8 col: 33
+Parsed: . at row: 8 col: 34
+Parsed: # at row: 8 col: 35
+Parsed: # at row: 9 col: 0
+Parsed: . at row: 9 col: 1
+Parsed: . at row: 9 col: 2
+Parsed: . at row: 9 col: 3
+Parsed: . at row: 9 col: 4
+Parsed: . at row: 9 col: 5
+Parsed: . at row: 9 col: 6
+Parsed: . at row: 9 col: 7
+Parsed: . at row: 9 col: 8
+Parsed: . at row: 9 col: 9
+Parsed: . at row: 9 col: 10
+Parsed: . at row: 9 col: 11
+Parsed: . at row: 9 col: 12
+Parsed: . at row: 9 col: 13
+Parsed: . at row: 9 col: 14
+Parsed: . at row: 9 col: 15
+Parsed: . at row: 9 col: 16
+Parsed: . at row: 9 col: 17
+Parsed: . at row: 9 col: 18
+Parsed: . at row: 9 col: 19
+Parsed: . at row: 9 col: 20
+Parsed: . at row: 9 col: 21
+Parsed: . at row: 9 col: 22
+Parsed: . at row: 9 col: 23
+Parsed: . at row: 9 col: 24
+Parsed: . at row: 9 col: 25
+Parsed: . at row: 9 col: 26
+Parsed: . at row: 9 col: 27
+Parsed: . at row: 9 col: 28
+Parsed: . at row: 9 col: 29
+Parsed: . at row: 9 col: 30
+Parsed: . at row: 9 col: 31
+Parsed: . at row: 9 col: 32
+Parsed: . at row: 9 col: 33
+Parsed: . at row: 9 col: 34
+Parsed: # at row: 9 col: 35
+Parsed: # at row: 10 col: 0
+Parsed: . at row: 10 col: 1
+Parsed: # at row: 10 col: 2
+Parsed: # at row: 10 col: 3
+Parsed: # at row: 10 col: 4
+Parsed: # at row: 10 col: 5
+Parsed: # at row: 10 col: 6
+Parsed: # at row: 10 col: 7
+Parsed: # at row: 10 col: 8
+Parsed: . at row: 10 col: 9
+Parsed: # at row: 10 col: 10
+Parsed: # at row: 10 col: 11
+Parsed: # at row: 10 col: 12
+Parsed: # at row: 10 col: 13
+Parsed: # at row: 10 col: 14
+Parsed: # at row: 10 col: 15
+Parsed: # at row: 10 col: 16
+Parsed: # at row: 10 col: 17
+Parsed: . at row: 10 col: 18
+Parsed: # at row: 10 col: 19
+Parsed: # at row: 10 col: 20
+Parsed: B at row: 10 col: 21
+Parsed: B at row: 10 col: 22
+Parsed: B at row: 10 col: 23
+Parsed: # at row: 10 col: 24
+Parsed: # at row: 10 col: 25
+Parsed: . at row: 10 col: 26
+Parsed: # at row: 10 col: 27
+Parsed: # at row: 10 col: 28
+Parsed: . at row: 10 col: 29
+Parsed: # at row: 10 col: 30
+Parsed: # at row: 10 col: 31
+Parsed: # at row: 10 col: 32
+Parsed: # at row: 10 col: 33
+Parsed: . at row: 10 col: 34
+Parsed: # at row: 10 col: 35
+Parsed: # at row: 11 col: 0
+Parsed: . at row: 11 col: 1
+Parsed: # at row: 11 col: 2
+Parsed: # at row: 11 col: 3
+Parsed: # at row: 11 col: 4
+Parsed: B at row: 11 col: 5
+Parsed: B at row: 11 col: 6
+Parsed: # at row: 11 col: 7
+Parsed: # at row: 11 col: 8
+Parsed: . at row: 11 col: 9
+Parsed: # at row: 11 col: 10
+Parsed: # at row: 11 col: 11
+Parsed: # at row: 11 col: 12
+Parsed: # at row: 11 col: 13
+Parsed: # at row: 11 col: 14
+Parsed: # at row: 11 col: 15
+Parsed: # at row: 11 col: 16
+Parsed: # at row: 11 col: 17
+Parsed: . at row: 11 col: 18
+Parsed: # at row: 11 col: 19
+Parsed: # at row: 11 col: 20
+Parsed: B at row: 11 col: 21
+Parsed: B at row: 11 col: 22
+Parsed: B at row: 11 col: 23
+Parsed: # at row: 11 col: 24
+Parsed: # at row: 11 col: 25
+Parsed: . at row: 11 col: 26
+Parsed: # at row: 11 col: 27
+Parsed: # at row: 11 col: 28
+Parsed: . at row: 11 col: 29
+Parsed: # at row: 11 col: 30
+Parsed: P at row: 11 col: 31
+Parsed: # at row: 11 col: 32
+Parsed: # at row: 11 col: 33
+Parsed: . at row: 11 col: 34
+Parsed: # at row: 11 col: 35
+Parsed: # at row: 12 col: 0
+Parsed: . at row: 12 col: 1
+Parsed: # at row: 12 col: 2
+Parsed: # at row: 12 col: 3
+Parsed: # at row: 12 col: 4
+Parsed: # at row: 12 col: 5
+Parsed: B at row: 12 col: 6
+Parsed: # at row: 12 col: 7
+Parsed: # at row: 12 col: 8
+Parsed: . at row: 12 col: 9
+Parsed: . at row: 12 col: 10
+Parsed: . at row: 12 col: 11
+Parsed: . at row: 12 col: 12
+Parsed: # at row: 12 col: 13
+Parsed: # at row: 12 col: 14
+Parsed: . at row: 12 col: 15
+Parsed: . at row: 12 col: 16
+Parsed: . at row: 12 col: 17
+Parsed: . at row: 12 col: 18
+Parsed: # at row: 12 col: 19
+Parsed: # at row: 12 col: 20
+Parsed: B at row: 12 col: 21
+Parsed: B at row: 12 col: 22
+Parsed: B at row: 12 col: 23
+Parsed: # at row: 12 col: 24
+Parsed: # at row: 12 col: 25
+Parsed: . at row: 12 col: 26
+Parsed: # at row: 12 col: 27
+Parsed: # at row: 12 col: 28
+Parsed: . at row: 12 col: 29
+Parsed: # at row: 12 col: 30
+Parsed: . at row: 12 col: 31
+Parsed: # at row: 12 col: 32
+Parsed: # at row: 12 col: 33
+Parsed: . at row: 12 col: 34
+Parsed: # at row: 12 col: 35
+Parsed: # at row: 13 col: 0
+Parsed: . at row: 13 col: 1
+Parsed: # at row: 13 col: 2
+Parsed: # at row: 13 col: 3
+Parsed: B at row: 13 col: 4
+Parsed: # at row: 13 col: 5
+Parsed: # at row: 13 col: 6
+Parsed: # at row: 13 col: 7
+Parsed: # at row: 13 col: 8
+Parsed: . at row: 13 col: 9
+Parsed: # at row: 13 col: 10
+Parsed: # at row: 13 col: 11
+Parsed: . at row: 13 col: 12
+Parsed: # at row: 13 col: 13
+Parsed: # at row: 13 col: 14
+Parsed: . at row: 13 col: 15
+Parsed: # at row: 13 col: 16
+Parsed: # at row: 13 col: 17
+Parsed: . at row: 13 col: 18
+Parsed: # at row: 13 col: 19
+Parsed: # at row: 13 col: 20
+Parsed: # at row: 13 col: 21
+Parsed: # at row: 13 col: 22
+Parsed: # at row: 13 col: 23
+Parsed: # at row: 13 col: 24
+Parsed: # at row: 13 col: 25
+Parsed: . at row: 13 col: 26
+Parsed: # at row: 13 col: 27
+Parsed: # at row: 13 col: 28
+Parsed: . at row: 13 col: 29
+Parsed: # at row: 13 col: 30
+Parsed: . at row: 13 col: 31
+Parsed: # at row: 13 col: 32
+Parsed: # at row: 13 col: 33
+Parsed: . at row: 13 col: 34
+Parsed: # at row: 13 col: 35
+Parsed: # at row: 14 col: 0
+Parsed: . at row: 14 col: 1
+Parsed: # at row: 14 col: 2
+Parsed: # at row: 14 col: 3
+Parsed: B at row: 14 col: 4
+Parsed: B at row: 14 col: 5
+Parsed: # at row: 14 col: 6
+Parsed: # at row: 14 col: 7
+Parsed: # at row: 14 col: 8
+Parsed: . at row: 14 col: 9
+Parsed: # at row: 14 col: 10
+Parsed: # at row: 14 col: 11
+Parsed: . at row: 14 col: 12
+Parsed: # at row: 14 col: 13
+Parsed: # at row: 14 col: 14
+Parsed: . at row: 14 col: 15
+Parsed: # at row: 14 col: 16
+Parsed: # at row: 14 col: 17
+Parsed: . at row: 14 col: 18
+Parsed: # at row: 14 col: 19
+Parsed: # at row: 14 col: 20
+Parsed: # at row: 14 col: 21
+Parsed: # at row: 14 col: 22
+Parsed: # at row: 14 col: 23
+Parsed: # at row: 14 col: 24
+Parsed: # at row: 14 col: 25
+Parsed: . at row: 14 col: 26
+Parsed: # at row: 14 col: 27
+Parsed: # at row: 14 col: 28
+Parsed: . at row: 14 col: 29
+Parsed: . at row: 14 col: 30
+Parsed: . at row: 14 col: 31
+Parsed: # at row: 14 col: 32
+Parsed: # at row: 14 col: 33
+Parsed: . at row: 14 col: 34
+Parsed: # at row: 14 col: 35
+Parsed: # at row: 15 col: 0
+Parsed: . at row: 15 col: 1
+Parsed: # at row: 15 col: 2
+Parsed: # at row: 15 col: 3
+Parsed: B at row: 15 col: 4
+Parsed: B at row: 15 col: 5
+Parsed: B at row: 15 col: 6
+Parsed: # at row: 15 col: 7
+Parsed: # at row: 15 col: 8
+Parsed: . at row: 15 col: 9
+Parsed: # at row: 15 col: 10
+Parsed: # at row: 15 col: 11
+Parsed: . at row: 15 col: 12
+Parsed: # at row: 15 col: 13
+Parsed: # at row: 15 col: 14
+Parsed: . at row: 15 col: 15
+Parsed: # at row: 15 col: 16
+Parsed: # at row: 15 col: 17
+Parsed: . at row: 15 col: 18
+Parsed: # at row: 15 col: 19
+Parsed: # at row: 15 col: 20
+Parsed: B at row: 15 col: 21
+Parsed: B at row: 15 col: 22
+Parsed: B at row: 15 col: 23
+Parsed: # at row: 15 col: 24
+Parsed: # at row: 15 col: 25
+Parsed: . at row: 15 col: 26
+Parsed: # at row: 15 col: 27
+Parsed: # at row: 15 col: 28
+Parsed: # at row: 15 col: 29
+Parsed: # at row: 15 col: 30
+Parsed: # at row: 15 col: 31
+Parsed: # at row: 15 col: 32
+Parsed: # at row: 15 col: 33
+Parsed: . at row: 15 col: 34
+Parsed: # at row: 15 col: 35
+Parsed: # at row: 16 col: 0
+Parsed: . at row: 16 col: 1
+Parsed: # at row: 16 col: 2
+Parsed: # at row: 16 col: 3
+Parsed: # at row: 16 col: 4
+Parsed: # at row: 16 col: 5
+Parsed: # at row: 16 col: 6
+Parsed: # at row: 16 col: 7
+Parsed: # at row: 16 col: 8
+Parsed: . at row: 16 col: 9
+Parsed: # at row: 16 col: 10
+Parsed: # at row: 16 col: 11
+Parsed: . at row: 16 col: 12
+Parsed: # at row: 16 col: 13
+Parsed: # at row: 16 col: 14
+Parsed: . at row: 16 col: 15
+Parsed: # at row: 16 col: 16
+Parsed: # at row: 16 col: 17
+Parsed: . at row: 16 col: 18
+Parsed: # at row: 16 col: 19
+Parsed: # at row: 16 col: 20
+Parsed: # at row: 16 col: 21
+Parsed: # at row: 16 col: 22
+Parsed: # at row: 16 col: 23
+Parsed: # at row: 16 col: 24
+Parsed: # at row: 16 col: 25
+Parsed: . at row: 16 col: 26
+Parsed: # at row: 16 col: 27
+Parsed: # at row: 16 col: 28
+Parsed: # at row: 16 col: 29
+Parsed: # at row: 16 col: 30
+Parsed: # at row: 16 col: 31
+Parsed: # at row: 16 col: 32
+Parsed: # at row: 16 col: 33
+Parsed: . at row: 16 col: 34
+Parsed: # at row: 16 col: 35
+Parsed: # at row: 17 col: 0
+Parsed: . at row: 17 col: 1
+Parsed: . at row: 17 col: 2
+Parsed: . at row: 17 col: 3
+Parsed: . at row: 17 col: 4
+Parsed: . at row: 17 col: 5
+Parsed: . at row: 17 col: 6
+Parsed: . at row: 17 col: 7
+Parsed: . at row: 17 col: 8
+Parsed: . at row: 17 col: 9
+Parsed: . at row: 17 col: 10
+Parsed: . at row: 17 col: 11
+Parsed: . at row: 17 col: 12
+Parsed: . at row: 17 col: 13
+Parsed: . at row: 17 col: 14
+Parsed: . at row: 17 col: 15
+Parsed: . at row: 17 col: 16
+Parsed: . at row: 17 col: 17
+Parsed: . at row: 17 col: 18
+Parsed: . at row: 17 col: 19
+Parsed: . at row: 17 col: 20
+Parsed: . at row: 17 col: 21
+Parsed: . at row: 17 col: 22
+Parsed: . at row: 17 col: 23
+Parsed: . at row: 17 col: 24
+Parsed: . at row: 17 col: 25
+Parsed: . at row: 17 col: 26
+Parsed: . at row: 17 col: 27
+Parsed: . at row: 17 col: 28
+Parsed: . at row: 17 col: 29
+Parsed: . at row: 17 col: 30
+Parsed: . at row: 17 col: 31
+Parsed: . at row: 17 col: 32
+Parsed: . at row: 17 col: 33
+Parsed: . at row: 17 col: 34
+Parsed: # at row: 17 col: 35
+Parsed: # at row: 18 col: 0
+Parsed: . at row: 18 col: 1
+Parsed: # at row: 18 col: 2
+Parsed: # at row: 18 col: 3
+Parsed: # at row: 18 col: 4
+Parsed: # at row: 18 col: 5
+Parsed: # at row: 18 col: 6
+Parsed: # at row: 18 col: 7
+Parsed: . at row: 18 col: 8
+Parsed: # at row: 18 col: 9
+Parsed: # at row: 18 col: 10
+Parsed: # at row: 18 col: 11
+Parsed: . at row: 18 col: 12
+Parsed: # at row: 18 col: 13
+Parsed: # at row: 18 col: 14
+Parsed: # at row: 18 col: 15
+Parsed: # at row: 18 col: 16
+Parsed: # at row: 18 col: 17
+Parsed: # at row: 18 col: 18
+Parsed: # at row: 18 col: 19
+Parsed: # at row: 18 col: 20
+Parsed: # at row: 18 col: 21
+Parsed: # at row: 18 col: 22
+Parsed: . at row: 18 col: 23
+Parsed: # at row: 18 col: 24
+Parsed: # at row: 18 col: 25
+Parsed: # at row: 18 col: 26
+Parsed: # at row: 18 col: 27
+Parsed: # at row: 18 col: 28
+Parsed: # at row: 18 col: 29
+Parsed: . at row: 18 col: 30
+Parsed: # at row: 18 col: 31
+Parsed: # at row: 18 col: 32
+Parsed: # at row: 18 col: 33
+Parsed: . at row: 18 col: 34
+Parsed: # at row: 18 col: 35
+Parsed: # at row: 19 col: 0
+Parsed: . at row: 19 col: 1
+Parsed: # at row: 19 col: 2
+Parsed: B at row: 19 col: 3
+Parsed: B at row: 19 col: 4
+Parsed: B at row: 19 col: 5
+Parsed: B at row: 19 col: 6
+Parsed: # at row: 19 col: 7
+Parsed: . at row: 19 col: 8
+Parsed: # at row: 19 col: 9
+Parsed: # at row: 19 col: 10
+Parsed: # at row: 19 col: 11
+Parsed: . at row: 19 col: 12
+Parsed: # at row: 19 col: 13
+Parsed: # at row: 19 col: 14
+Parsed: # at row: 19 col: 15
+Parsed: # at row: 19 col: 16
+Parsed: # at row: 19 col: 17
+Parsed: B at row: 19 col: 18
+Parsed: B at row: 19 col: 19
+Parsed: B at row: 19 col: 20
+Parsed: # at row: 19 col: 21
+Parsed: . at row: 19 col: 22
+Parsed: . at row: 19 col: 23
+Parsed: . at row: 19 col: 24
+Parsed: . at row: 19 col: 25
+Parsed: . at row: 19 col: 26
+Parsed: . at row: 19 col: 27
+Parsed: . at row: 19 col: 28
+Parsed: . at row: 19 col: 29
+Parsed: . at row: 19 col: 30
+Parsed: # at row: 19 col: 31
+Parsed: B at row: 19 col: 32
+Parsed: # at row: 19 col: 33
+Parsed: . at row: 19 col: 34
+Parsed: # at row: 19 col: 35
+Parsed: # at row: 20 col: 0
+Parsed: . at row: 20 col: 1
+Parsed: # at row: 20 col: 2
+Parsed: # at row: 20 col: 3
+Parsed: # at row: 20 col: 4
+Parsed: # at row: 20 col: 5
+Parsed: # at row: 20 col: 6
+Parsed: # at row: 20 col: 7
+Parsed: . at row: 20 col: 8
+Parsed: . at row: 20 col: 9
+Parsed: . at row: 20 col: 10
+Parsed: . at row: 20 col: 11
+Parsed: . at row: 20 col: 12
+Parsed: . at row: 20 col: 13
+Parsed: . at row: 20 col: 14
+Parsed: . at row: 20 col: 15
+Parsed: . at row: 20 col: 16
+Parsed: # at row: 20 col: 17
+Parsed: # at row: 20 col: 18
+Parsed: # at row: 20 col: 19
+Parsed: # at row: 20 col: 20
+Parsed: # at row: 20 col: 21
+Parsed: . at row: 20 col: 22
+Parsed: # at row: 20 col: 23
+Parsed: # at row: 20 col: 24
+Parsed: # at row: 20 col: 25
+Parsed: . at row: 20 col: 26
+Parsed: # at row: 20 col: 27
+Parsed: # at row: 20 col: 28
+Parsed: # at row: 20 col: 29
+Parsed: . at row: 20 col: 30
+Parsed: # at row: 20 col: 31
+Parsed: B at row: 20 col: 32
+Parsed: # at row: 20 col: 33
+Parsed: . at row: 20 col: 34
+Parsed: # at row: 20 col: 35
+Parsed: # at row: 21 col: 0
+Parsed: . at row: 21 col: 1
+Parsed: . at row: 21 col: 2
+Parsed: . at row: 21 col: 3
+Parsed: . at row: 21 col: 4
+Parsed: . at row: 21 col: 5
+Parsed: . at row: 21 col: 6
+Parsed: . at row: 21 col: 7
+Parsed: . at row: 21 col: 8
+Parsed: # at row: 21 col: 9
+Parsed: # at row: 21 col: 10
+Parsed: # at row: 21 col: 11
+Parsed: # at row: 21 col: 12
+Parsed: # at row: 21 col: 13
+Parsed: # at row: 21 col: 14
+Parsed: # at row: 21 col: 15
+Parsed: . at row: 21 col: 16
+Parsed: . at row: 21 col: 17
+Parsed: . at row: 21 col: 18
+Parsed: . at row: 21 col: 19
+Parsed: . at row: 21 col: 20
+Parsed: . at row: 21 col: 21
+Parsed: . at row: 21 col: 22
+Parsed: # at row: 21 col: 23
+Parsed: B at row: 21 col: 24
+Parsed: # at row: 21 col: 25
+Parsed: . at row: 21 col: 26
+Parsed: # at row: 21 col: 27
+Parsed: B at row: 21 col: 28
+Parsed: # at row: 21 col: 29
+Parsed: . at row: 21 col: 30
+Parsed: # at row: 21 col: 31
+Parsed: B at row: 21 col: 32
+Parsed: # at row: 21 col: 33
+Parsed: . at row: 21 col: 34
+Parsed: # at row: 21 col: 35
+Parsed: # at row: 22 col: 0
+Parsed: . at row: 22 col: 1
+Parsed: # at row: 22 col: 2
+Parsed: # at row: 22 col: 3
+Parsed: # at row: 22 col: 4
+Parsed: # at row: 22 col: 5
+Parsed: # at row: 22 col: 6
+Parsed: # at row: 22 col: 7
+Parsed: . at row: 22 col: 8
+Parsed: # at row: 22 col: 9
+Parsed: B at row: 22 col: 10
+Parsed: B at row: 22 col: 11
+Parsed: B at row: 22 col: 12
+Parsed: B at row: 22 col: 13
+Parsed: B at row: 22 col: 14
+Parsed: # at row: 22 col: 15
+Parsed: # at row: 22 col: 16
+Parsed: # at row: 22 col: 17
+Parsed: # at row: 22 col: 18
+Parsed: # at row: 22 col: 19
+Parsed: . at row: 22 col: 20
+Parsed: # at row: 22 col: 21
+Parsed: # at row: 22 col: 22
+Parsed: # at row: 22 col: 23
+Parsed: B at row: 22 col: 24
+Parsed: # at row: 22 col: 25
+Parsed: . at row: 22 col: 26
+Parsed: # at row: 22 col: 27
+Parsed: B at row: 22 col: 28
+Parsed: # at row: 22 col: 29
+Parsed: . at row: 22 col: 30
+Parsed: # at row: 22 col: 31
+Parsed: # at row: 22 col: 32
+Parsed: # at row: 22 col: 33
+Parsed: . at row: 22 col: 34
+Parsed: # at row: 22 col: 35
+Parsed: # at row: 23 col: 0
+Parsed: . at row: 23 col: 1
+Parsed: # at row: 23 col: 2
+Parsed: B at row: 23 col: 3
+Parsed: B at row: 23 col: 4
+Parsed: B at row: 23 col: 5
+Parsed: B at row: 23 col: 6
+Parsed: # at row: 23 col: 7
+Parsed: . at row: 23 col: 8
+Parsed: # at row: 23 col: 9
+Parsed: # at row: 23 col: 10
+Parsed: # at row: 23 col: 11
+Parsed: # at row: 23 col: 12
+Parsed: # at row: 23 col: 13
+Parsed: # at row: 23 col: 14
+Parsed: # at row: 23 col: 15
+Parsed: # at row: 23 col: 16
+Parsed: # at row: 23 col: 17
+Parsed: # at row: 23 col: 18
+Parsed: # at row: 23 col: 19
+Parsed: . at row: 23 col: 20
+Parsed: # at row: 23 col: 21
+Parsed: # at row: 23 col: 22
+Parsed: # at row: 23 col: 23
+Parsed: # at row: 23 col: 24
+Parsed: # at row: 23 col: 25
+Parsed: . at row: 23 col: 26
+Parsed: # at row: 23 col: 27
+Parsed: # at row: 23 col: 28
+Parsed: # at row: 23 col: 29
+Parsed: . at row: 23 col: 30
+Parsed: . at row: 23 col: 31
+Parsed: . at row: 23 col: 32
+Parsed: . at row: 23 col: 33
+Parsed: . at row: 23 col: 34
+Parsed: # at row: 23 col: 35
+Parsed: # at row: 24 col: 0
+Parsed: . at row: 24 col: 1
+Parsed: # at row: 24 col: 2
+Parsed: # at row: 24 col: 3
+Parsed: # at row: 24 col: 4
+Parsed: # at row: 24 col: 5
+Parsed: # at row: 24 col: 6
+Parsed: # at row: 24 col: 7
+Parsed: . at row: 24 col: 8
+Parsed: # at row: 24 col: 9
+Parsed: . at row: 24 col: 10
+Parsed: . at row: 24 col: 11
+Parsed: . at row: 24 col: 12
+Parsed: . at row: 24 col: 13
+Parsed: . at row: 24 col: 14
+Parsed: P at row: 24 col: 15
+Parsed: . at row: 24 col: 16
+Parsed: . at row: 24 col: 17
+Parsed: . at row: 24 col: 18
+Parsed: . at row: 24 col: 19
+Parsed: . at row: 24 col: 20
+Parsed: . at row: 24 col: 21
+Parsed: . at row: 24 col: 22
+Parsed: . at row: 24 col: 23
+Parsed: . at row: 24 col: 24
+Parsed: . at row: 24 col: 25
+Parsed: . at row: 24 col: 26
+Parsed: . at row: 24 col: 27
+Parsed: . at row: 24 col: 28
+Parsed: # at row: 24 col: 29
+Parsed: . at row: 24 col: 30
+Parsed: # at row: 24 col: 31
+Parsed: # at row: 24 col: 32
+Parsed: # at row: 24 col: 33
+Parsed: . at row: 24 col: 34
+Parsed: # at row: 24 col: 35
+Parsed: # at row: 25 col: 0
+Parsed: . at row: 25 col: 1
+Parsed: . at row: 25 col: 2
+Parsed: . at row: 25 col: 3
+Parsed: . at row: 25 col: 4
+Parsed: . at row: 25 col: 5
+Parsed: . at row: 25 col: 6
+Parsed: . at row: 25 col: 7
+Parsed: . at row: 25 col: 8
+Parsed: . at row: 25 col: 9
+Parsed: . at row: 25 col: 10
+Parsed: # at row: 25 col: 11
+Parsed: # at row: 25 col: 12
+Parsed: # at row: 25 col: 13
+Parsed: # at row: 25 col: 14
+Parsed: # at row: 25 col: 15
+Parsed: # at row: 25 col: 16
+Parsed: # at row: 25 col: 17
+Parsed: # at row: 25 col: 18
+Parsed: # at row: 25 col: 19
+Parsed: . at row: 25 col: 20
+Parsed: # at row: 25 col: 21
+Parsed: # at row: 25 col: 22
+Parsed: # at row: 25 col: 23
+Parsed: # at row: 25 col: 24
+Parsed: # at row: 25 col: 25
+Parsed: # at row: 25 col: 26
+Parsed: # at row: 25 col: 27
+Parsed: . at row: 25 col: 28
+Parsed: # at row: 25 col: 29
+Parsed: . at row: 25 col: 30
+Parsed: # at row: 25 col: 31
+Parsed: B at row: 25 col: 32
+Parsed: # at row: 25 col: 33
+Parsed: . at row: 25 col: 34
+Parsed: # at row: 25 col: 35
+Parsed: # at row: 26 col: 0
+Parsed: . at row: 26 col: 1
+Parsed: # at row: 26 col: 2
+Parsed: # at row: 26 col: 3
+Parsed: # at row: 26 col: 4
+Parsed: # at row: 26 col: 5
+Parsed: # at row: 26 col: 6
+Parsed: # at row: 26 col: 7
+Parsed: # at row: 26 col: 8
+Parsed: . at row: 26 col: 9
+Parsed: # at row: 26 col: 10
+Parsed: # at row: 26 col: 11
+Parsed: # at row: 26 col: 12
+Parsed: # at row: 26 col: 13
+Parsed: # at row: 26 col: 14
+Parsed: # at row: 26 col: 15
+Parsed: # at row: 26 col: 16
+Parsed: # at row: 26 col: 17
+Parsed: # at row: 26 col: 18
+Parsed: # at row: 26 col: 19
+Parsed: . at row: 26 col: 20
+Parsed: # at row: 26 col: 21
+Parsed: B at row: 26 col: 22
+Parsed: B at row: 26 col: 23
+Parsed: B at row: 26 col: 24
+Parsed: B at row: 26 col: 25
+Parsed: B at row: 26 col: 26
+Parsed: # at row: 26 col: 27
+Parsed: . at row: 26 col: 28
+Parsed: . at row: 26 col: 29
+Parsed: . at row: 26 col: 30
+Parsed: # at row: 26 col: 31
+Parsed: B at row: 26 col: 32
+Parsed: # at row: 26 col: 33
+Parsed: . at row: 26 col: 34
+Parsed: # at row: 26 col: 35
+Parsed: # at row: 27 col: 0
+Parsed: . at row: 27 col: 1
+Parsed: # at row: 27 col: 2
+Parsed: # at row: 27 col: 3
+Parsed: # at row: 27 col: 4
+Parsed: # at row: 27 col: 5
+Parsed: # at row: 27 col: 6
+Parsed: # at row: 27 col: 7
+Parsed: # at row: 27 col: 8
+Parsed: . at row: 27 col: 9
+Parsed: . at row: 27 col: 10
+Parsed: . at row: 27 col: 11
+Parsed: . at row: 27 col: 12
+Parsed: . at row: 27 col: 13
+Parsed: . at row: 27 col: 14
+Parsed: . at row: 27 col: 15
+Parsed: . at row: 27 col: 16
+Parsed: . at row: 27 col: 17
+Parsed: . at row: 27 col: 18
+Parsed: . at row: 27 col: 19
+Parsed: . at row: 27 col: 20
+Parsed: # at row: 27 col: 21
+Parsed: # at row: 27 col: 22
+Parsed: # at row: 27 col: 23
+Parsed: # at row: 27 col: 24
+Parsed: # at row: 27 col: 25
+Parsed: # at row: 27 col: 26
+Parsed: # at row: 27 col: 27
+Parsed: . at row: 27 col: 28
+Parsed: # at row: 27 col: 29
+Parsed: . at row: 27 col: 30
+Parsed: # at row: 27 col: 31
+Parsed: # at row: 27 col: 32
+Parsed: # at row: 27 col: 33
+Parsed: . at row: 27 col: 34
+Parsed: # at row: 27 col: 35
+Parsed: # at row: 28 col: 0
+Parsed: . at row: 28 col: 1
+Parsed: . at row: 28 col: 2
+Parsed: . at row: 28 col: 3
+Parsed: . at row: 28 col: 4
+Parsed: . at row: 28 col: 5
+Parsed: . at row: 28 col: 6
+Parsed: . at row: 28 col: 7
+Parsed: . at row: 28 col: 8
+Parsed: . at row: 28 col: 9
+Parsed: . at row: 28 col: 10
+Parsed: . at row: 28 col: 11
+Parsed: . at row: 28 col: 12
+Parsed: . at row: 28 col: 13
+Parsed: . at row: 28 col: 14
+Parsed: . at row: 28 col: 15
+Parsed: . at row: 28 col: 16
+Parsed: P at row: 28 col: 17
+Parsed: . at row: 28 col: 18
+Parsed: . at row: 28 col: 19
+Parsed: . at row: 28 col: 20
+Parsed: . at row: 28 col: 21
+Parsed: . at row: 28 col: 22
+Parsed: . at row: 28 col: 23
+Parsed: . at row: 28 col: 24
+Parsed: . at row: 28 col: 25
+Parsed: . at row: 28 col: 26
+Parsed: . at row: 28 col: 27
+Parsed: . at row: 28 col: 28
+Parsed: # at row: 28 col: 29
+Parsed: . at row: 28 col: 30
+Parsed: . at row: 28 col: 31
+Parsed: . at row: 28 col: 32
+Parsed: . at row: 28 col: 33
+Parsed: . at row: 28 col: 34
+Parsed: # at row: 28 col: 35
+Parsed: # at row: 29 col: 0
+Parsed: # at row: 29 col: 1
+Parsed: # at row: 29 col: 2
+Parsed: # at row: 29 col: 3
+Parsed: # at row: 29 col: 4
+Parsed: # at row: 29 col: 5
+Parsed: # at row: 29 col: 6
+Parsed: # at row: 29 col: 7
+Parsed: # at row: 29 col: 8
+Parsed: # at row: 29 col: 9
+Parsed: # at row: 29 col: 10
+Parsed: # at row: 29 col: 11
+Parsed: # at row: 29 col: 12
+Parsed: # at row: 29 col: 13
+Parsed: # at row: 29 col: 14
+Parsed: # at row: 29 col: 15
+Parsed: # at row: 29 col: 16
+Parsed: # at row: 29 col: 17
+Parsed: # at row: 29 col: 18
+Parsed: # at row: 29 col: 19
+Parsed: # at row: 29 col: 20
+Parsed: # at row: 29 col: 21
+Parsed: # at row: 29 col: 22
+Parsed: # at row: 29 col: 23
+Parsed: # at row: 29 col: 24
+Parsed: # at row: 29 col: 25
+Parsed: # at row: 29 col: 26
+Parsed: # at row: 29 col: 27
+Parsed: # at row: 29 col: 28
+Parsed: # at row: 29 col: 29
+Parsed: # at row: 29 col: 30
+Parsed: # at row: 29 col: 31
+Parsed: # at row: 29 col: 32
+Parsed: # at row: 29 col: 33
+Parsed: # at row: 29 col: 34
+Parsed: # at row: 29 col: 35
+CHOSEN: PACMAN
+loaded image: Assets/pacman_move.png
+loaded image: Assets/pacman_die.png
+loaded image: Assets/stop.png
+loaded image: Assets/breakW.png
+loaded image: Assets/heart.png
+creating ghost 0
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_red.png
+creating ghost 1
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_pink.png
+creating ghost 2
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_orange.png
+creating ghost 3
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_blue.png
+Key with keycode 3 down
+Key with keycode 217 down
+Key with keycode 11 down
+Key with keycode 217 down
+Ghost 1 = 20
+Ghost 3 = 20
+Key with keycode 12 down
+Ghost 1 = 19
+Ghost 3 = 19
+Key with keycode 217 down
+Ghost 1 = 18
+Ghost 3 = 18
+Ghost 1 = 17
+Ghost 3 = 17
+Key with keycode 217 down
+Key with keycode 12 down
+Ghost 1 = 13
+Ghost 3 = 13
+Ghost 1 = 13
+Ghost 3 = 13
+Ghost 1 = 12
+Ghost 3 = 12
+Ghost 1 = 11
+Ghost 3 = 11
+Ghost 1 = 10
+Ghost 3 = 12
+Ghost 3 = 13
+Ghost 1 = 7
+Ghost 3 = 13
+Ghost 1 = 6
+Ghost 3 = 12
+Ghost 1 = 5
+Ghost 3 = 11
+Ghost 1 = 4
+Ghost 3 = 12
+Ghost 3 = 13
+Key with keycode 217 down
+Key with keycode 12 down
+Invisible
+Ghost 3 = 13
+Ghost 3 = 12
+Ghost 3 = 11
+Key with keycode 19 down
+Key with keycode 23 down
+Key with keycode 19 down
+Key with keycode 23 down
+Ghost 1 = 7
+Key with keycode 19 down
+Key with keycode 3 down
+Time: 0 ~ 0.00 
+Over scene created
+Change scene from Start to Over
+main game destroyed
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/over.png
+loaded image: Assets/podium.png
+Key with keycode 3 down
+Key with keycode 63 down
+Key with keycode 63 down
+Key with keycode 63 down
+Key with keycode 63 down
+Key with keycode 63 down
+Key with keycode 63 down
+Key with keycode 63 down
+Key with keycode 16 down
+Key with keycode 1 down
+Key with keycode 3 down
+Key with keycode 67 down
+Saving: pac 2 2.00
+Data Saved
+Header Updated
+Total Rows Found
+Ready to parse content
+Parsed & Sorted
+tests
+Input
+tuhan
+Total Played: 31
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+Key with keycode 67 down
+Menu scene created
+Change scene from Over to Menu
+Over Destroyed
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/rankRaw.png
+loaded image: Assets/rankRaw(1).png
+loaded image: Assets/btnJohn(1).png
+loaded image: Assets/btnJohn.png
+loaded image: Assets/p_c.png
+loaded image: Assets/p_c(1).png
+loaded image: Assets/title.png
+Total Rows Found
+Ready to parse content
+Parsed & Sorted
+Settings scene created
+Change scene from Menu to Settings
+Menu Destroyed
+loaded image: Assets/bar.png
+loaded image: Assets/bar.png
+551
+Updated eVol: 0.84
+458
+Updated eVol: 0.53
+353
+Updated eVol: 0.18
+309
+Updated eVol: 0.03
+304
+Updated eVol: 0.01
+Key with keycode 67 down
+Menu scene created
+Change scene from Settings to Menu
+Setting Destroyed
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/rankRaw.png
+loaded image: Assets/rankRaw(1).png
+loaded image: Assets/btnJohn(1).png
+loaded image: Assets/btnJohn.png
+loaded image: Assets/p_c.png
+loaded image: Assets/p_c(1).png
+loaded image: Assets/title.png
+Total Rows Found
+Ready to parse content
+Parsed & Sorted
+Key with keycode 67 down
+Start scene created
+Change scene from Menu to Start
+Menu Destroyed
+Map File Path: Assets/map_nthu.txt
+
+Ready to parse txt row = 30 col = 36
+Malloc Complete: Start to parse
+Parsed: # at row: 0 col: 0
+Parsed: # at row: 0 col: 1
+Parsed: # at row: 0 col: 2
+Parsed: # at row: 0 col: 3
+Parsed: # at row: 0 col: 4
+Parsed: # at row: 0 col: 5
+Parsed: # at row: 0 col: 6
+Parsed: # at row: 0 col: 7
+Parsed: # at row: 0 col: 8
+Parsed: # at row: 0 col: 9
+Parsed: # at row: 0 col: 10
+Parsed: # at row: 0 col: 11
+Parsed: # at row: 0 col: 12
+Parsed: # at row: 0 col: 13
+Parsed: # at row: 0 col: 14
+Parsed: # at row: 0 col: 15
+Parsed: # at row: 0 col: 16
+Parsed: # at row: 0 col: 17
+Parsed: # at row: 0 col: 18
+Parsed: # at row: 0 col: 19
+Parsed: # at row: 0 col: 20
+Parsed: # at row: 0 col: 21
+Parsed: # at row: 0 col: 22
+Parsed: # at row: 0 col: 23
+Parsed: # at row: 0 col: 24
+Parsed: # at row: 0 col: 25
+Parsed: # at row: 0 col: 26
+Parsed: # at row: 0 col: 27
+Parsed: # at row: 0 col: 28
+Parsed: # at row: 0 col: 29
+Parsed: # at row: 0 col: 30
+Parsed: # at row: 0 col: 31
+Parsed: # at row: 0 col: 32
+Parsed: # at row: 0 col: 33
+Parsed: # at row: 0 col: 34
+Parsed: # at row: 0 col: 35
+Parsed: # at row: 1 col: 0
+Parsed: . at row: 1 col: 1
+Parsed: . at row: 1 col: 2
+Parsed: . at row: 1 col: 3
+Parsed: . at row: 1 col: 4
+Parsed: . at row: 1 col: 5
+Parsed: . at row: 1 col: 6
+Parsed: . at row: 1 col: 7
+Parsed: . at row: 1 col: 8
+Parsed: . at row: 1 col: 9
+Parsed: . at row: 1 col: 10
+Parsed: . at row: 1 col: 11
+Parsed: . at row: 1 col: 12
+Parsed: . at row: 1 col: 13
+Parsed: . at row: 1 col: 14
+Parsed: . at row: 1 col: 15
+Parsed: . at row: 1 col: 16
+Parsed: . at row: 1 col: 17
+Parsed: . at row: 1 col: 18
+Parsed: # at row: 1 col: 19
+Parsed: # at row: 1 col: 20
+Parsed: # at row: 1 col: 21
+Parsed: . at row: 1 col: 22
+Parsed: . at row: 1 col: 23
+Parsed: . at row: 1 col: 24
+Parsed: . at row: 1 col: 25
+Parsed: . at row: 1 col: 26
+Parsed: . at row: 1 col: 27
+Parsed: . at row: 1 col: 28
+Parsed: . at row: 1 col: 29
+Parsed: . at row: 1 col: 30
+Parsed: # at row: 1 col: 31
+Parsed: # at row: 1 col: 32
+Parsed: # at row: 1 col: 33
+Parsed: # at row: 1 col: 34
+Parsed: # at row: 1 col: 35
+Parsed: # at row: 2 col: 0
+Parsed: . at row: 2 col: 1
+Parsed: # at row: 2 col: 2
+Parsed: # at row: 2 col: 3
+Parsed: # at row: 2 col: 4
+Parsed: # at row: 2 col: 5
+Parsed: . at row: 2 col: 6
+Parsed: # at row: 2 col: 7
+Parsed: # at row: 2 col: 8
+Parsed: # at row: 2 col: 9
+Parsed: # at row: 2 col: 10
+Parsed: # at row: 2 col: 11
+Parsed: # at row: 2 col: 12
+Parsed: # at row: 2 col: 13
+Parsed: # at row: 2 col: 14
+Parsed: # at row: 2 col: 15
+Parsed: # at row: 2 col: 16
+Parsed: # at row: 2 col: 17
+Parsed: . at row: 2 col: 18
+Parsed: . at row: 2 col: 19
+Parsed: . at row: 2 col: 20
+Parsed: . at row: 2 col: 21
+Parsed: . at row: 2 col: 22
+Parsed: # at row: 2 col: 23
+Parsed: # at row: 2 col: 24
+Parsed: # at row: 2 col: 25
+Parsed: # at row: 2 col: 26
+Parsed: # at row: 2 col: 27
+Parsed: # at row: 2 col: 28
+Parsed: # at row: 2 col: 29
+Parsed: . at row: 2 col: 30
+Parsed: . at row: 2 col: 31
+Parsed: . at row: 2 col: 32
+Parsed: . at row: 2 col: 33
+Parsed: . at row: 2 col: 34
+Parsed: # at row: 2 col: 35
+Parsed: # at row: 3 col: 0
+Parsed: . at row: 3 col: 1
+Parsed: # at row: 3 col: 2
+Parsed: # at row: 3 col: 3
+Parsed: # at row: 3 col: 4
+Parsed: # at row: 3 col: 5
+Parsed: . at row: 3 col: 6
+Parsed: # at row: 3 col: 7
+Parsed: . at row: 3 col: 8
+Parsed: . at row: 3 col: 9
+Parsed: . at row: 3 col: 10
+Parsed: . at row: 3 col: 11
+Parsed: . at row: 3 col: 12
+Parsed: . at row: 3 col: 13
+Parsed: . at row: 3 col: 14
+Parsed: . at row: 3 col: 15
+Parsed: . at row: 3 col: 16
+Parsed: . at row: 3 col: 17
+Parsed: . at row: 3 col: 18
+Parsed: # at row: 3 col: 19
+Parsed: # at row: 3 col: 20
+Parsed: # at row: 3 col: 21
+Parsed: . at row: 3 col: 22
+Parsed: . at row: 3 col: 23
+Parsed: . at row: 3 col: 24
+Parsed: . at row: 3 col: 25
+Parsed: . at row: 3 col: 26
+Parsed: # at row: 3 col: 27
+Parsed: B at row: 3 col: 28
+Parsed: # at row: 3 col: 29
+Parsed: . at row: 3 col: 30
+Parsed: # at row: 3 col: 31
+Parsed: # at row: 3 col: 32
+Parsed: # at row: 3 col: 33
+Parsed: . at row: 3 col: 34
+Parsed: # at row: 3 col: 35
+Parsed: # at row: 4 col: 0
+Parsed: . at row: 4 col: 1
+Parsed: P at row: 4 col: 2
+Parsed: . at row: 4 col: 3
+Parsed: . at row: 4 col: 4
+Parsed: . at row: 4 col: 5
+Parsed: . at row: 4 col: 6
+Parsed: . at row: 4 col: 7
+Parsed: . at row: 4 col: 8
+Parsed: # at row: 4 col: 9
+Parsed: # at row: 4 col: 10
+Parsed: # at row: 4 col: 11
+Parsed: # at row: 4 col: 12
+Parsed: # at row: 4 col: 13
+Parsed: # at row: 4 col: 14
+Parsed: # at row: 4 col: 15
+Parsed: # at row: 4 col: 16
+Parsed: # at row: 4 col: 17
+Parsed: . at row: 4 col: 18
+Parsed: . at row: 4 col: 19
+Parsed: . at row: 4 col: 20
+Parsed: . at row: 4 col: 21
+Parsed: . at row: 4 col: 22
+Parsed: # at row: 4 col: 23
+Parsed: . at row: 4 col: 24
+Parsed: # at row: 4 col: 25
+Parsed: . at row: 4 col: 26
+Parsed: # at row: 4 col: 27
+Parsed: # at row: 4 col: 28
+Parsed: # at row: 4 col: 29
+Parsed: . at row: 4 col: 30
+Parsed: # at row: 4 col: 31
+Parsed: B at row: 4 col: 32
+Parsed: # at row: 4 col: 33
+Parsed: . at row: 4 col: 34
+Parsed: # at row: 4 col: 35
+Parsed: # at row: 5 col: 0
+Parsed: . at row: 5 col: 1
+Parsed: # at row: 5 col: 2
+Parsed: # at row: 5 col: 3
+Parsed: # at row: 5 col: 4
+Parsed: # at row: 5 col: 5
+Parsed: # at row: 5 col: 6
+Parsed: . at row: 5 col: 7
+Parsed: # at row: 5 col: 8
+Parsed: # at row: 5 col: 9
+Parsed: # at row: 5 col: 10
+Parsed: B at row: 5 col: 11
+Parsed: B at row: 5 col: 12
+Parsed: B at row: 5 col: 13
+Parsed: B at row: 5 col: 14
+Parsed: B at row: 5 col: 15
+Parsed: B at row: 5 col: 16
+Parsed: # at row: 5 col: 17
+Parsed: # at row: 5 col: 18
+Parsed: # at row: 5 col: 19
+Parsed: . at row: 5 col: 20
+Parsed: # at row: 5 col: 21
+Parsed: # at row: 5 col: 22
+Parsed: # at row: 5 col: 23
+Parsed: . at row: 5 col: 24
+Parsed: # at row: 5 col: 25
+Parsed: . at row: 5 col: 26
+Parsed: # at row: 5 col: 27
+Parsed: P at row: 5 col: 28
+Parsed: # at row: 5 col: 29
+Parsed: . at row: 5 col: 30
+Parsed: # at row: 5 col: 31
+Parsed: B at row: 5 col: 32
+Parsed: # at row: 5 col: 33
+Parsed: . at row: 5 col: 34
+Parsed: # at row: 5 col: 35
+Parsed: # at row: 6 col: 0
+Parsed: . at row: 6 col: 1
+Parsed: # at row: 6 col: 2
+Parsed: B at row: 6 col: 3
+Parsed: B at row: 6 col: 4
+Parsed: B at row: 6 col: 5
+Parsed: # at row: 6 col: 6
+Parsed: . at row: 6 col: 7
+Parsed: . at row: 6 col: 8
+Parsed: . at row: 6 col: 9
+Parsed: # at row: 6 col: 10
+Parsed: B at row: 6 col: 11
+Parsed: B at row: 6 col: 12
+Parsed: B at row: 6 col: 13
+Parsed: B at row: 6 col: 14
+Parsed: B at row: 6 col: 15
+Parsed: B at row: 6 col: 16
+Parsed: B at row: 6 col: 17
+Parsed: B at row: 6 col: 18
+Parsed: # at row: 6 col: 19
+Parsed: . at row: 6 col: 20
+Parsed: # at row: 6 col: 21
+Parsed: # at row: 6 col: 22
+Parsed: # at row: 6 col: 23
+Parsed: . at row: 6 col: 24
+Parsed: # at row: 6 col: 25
+Parsed: . at row: 6 col: 26
+Parsed: # at row: 6 col: 27
+Parsed: . at row: 6 col: 28
+Parsed: # at row: 6 col: 29
+Parsed: . at row: 6 col: 30
+Parsed: # at row: 6 col: 31
+Parsed: B at row: 6 col: 32
+Parsed: # at row: 6 col: 33
+Parsed: . at row: 6 col: 34
+Parsed: # at row: 6 col: 35
+Parsed: # at row: 7 col: 0
+Parsed: . at row: 7 col: 1
+Parsed: # at row: 7 col: 2
+Parsed: B at row: 7 col: 3
+Parsed: B at row: 7 col: 4
+Parsed: B at row: 7 col: 5
+Parsed: # at row: 7 col: 6
+Parsed: . at row: 7 col: 7
+Parsed: # at row: 7 col: 8
+Parsed: . at row: 7 col: 9
+Parsed: # at row: 7 col: 10
+Parsed: B at row: 7 col: 11
+Parsed: B at row: 7 col: 12
+Parsed: B at row: 7 col: 13
+Parsed: B at row: 7 col: 14
+Parsed: B at row: 7 col: 15
+Parsed: B at row: 7 col: 16
+Parsed: B at row: 7 col: 17
+Parsed: B at row: 7 col: 18
+Parsed: # at row: 7 col: 19
+Parsed: . at row: 7 col: 20
+Parsed: # at row: 7 col: 21
+Parsed: # at row: 7 col: 22
+Parsed: # at row: 7 col: 23
+Parsed: . at row: 7 col: 24
+Parsed: # at row: 7 col: 25
+Parsed: . at row: 7 col: 26
+Parsed: . at row: 7 col: 27
+Parsed: . at row: 7 col: 28
+Parsed: # at row: 7 col: 29
+Parsed: . at row: 7 col: 30
+Parsed: # at row: 7 col: 31
+Parsed: B at row: 7 col: 32
+Parsed: # at row: 7 col: 33
+Parsed: . at row: 7 col: 34
+Parsed: # at row: 7 col: 35
+Parsed: # at row: 8 col: 0
+Parsed: . at row: 8 col: 1
+Parsed: # at row: 8 col: 2
+Parsed: # at row: 8 col: 3
+Parsed: # at row: 8 col: 4
+Parsed: # at row: 8 col: 5
+Parsed: # at row: 8 col: 6
+Parsed: . at row: 8 col: 7
+Parsed: # at row: 8 col: 8
+Parsed: . at row: 8 col: 9
+Parsed: # at row: 8 col: 10
+Parsed: # at row: 8 col: 11
+Parsed: # at row: 8 col: 12
+Parsed: # at row: 8 col: 13
+Parsed: # at row: 8 col: 14
+Parsed: # at row: 8 col: 15
+Parsed: # at row: 8 col: 16
+Parsed: # at row: 8 col: 17
+Parsed: # at row: 8 col: 18
+Parsed: # at row: 8 col: 19
+Parsed: . at row: 8 col: 20
+Parsed: # at row: 8 col: 21
+Parsed: # at row: 8 col: 22
+Parsed: # at row: 8 col: 23
+Parsed: . at row: 8 col: 24
+Parsed: # at row: 8 col: 25
+Parsed: # at row: 8 col: 26
+Parsed: # at row: 8 col: 27
+Parsed: # at row: 8 col: 28
+Parsed: # at row: 8 col: 29
+Parsed: . at row: 8 col: 30
+Parsed: # at row: 8 col: 31
+Parsed: # at row: 8 col: 32
+Parsed: # at row: 8 col: 33
+Parsed: . at row: 8 col: 34
+Parsed: # at row: 8 col: 35
+Parsed: # at row: 9 col: 0
+Parsed: . at row: 9 col: 1
+Parsed: . at row: 9 col: 2
+Parsed: . at row: 9 col: 3
+Parsed: . at row: 9 col: 4
+Parsed: . at row: 9 col: 5
+Parsed: . at row: 9 col: 6
+Parsed: . at row: 9 col: 7
+Parsed: . at row: 9 col: 8
+Parsed: . at row: 9 col: 9
+Parsed: . at row: 9 col: 10
+Parsed: . at row: 9 col: 11
+Parsed: . at row: 9 col: 12
+Parsed: . at row: 9 col: 13
+Parsed: . at row: 9 col: 14
+Parsed: . at row: 9 col: 15
+Parsed: . at row: 9 col: 16
+Parsed: . at row: 9 col: 17
+Parsed: . at row: 9 col: 18
+Parsed: . at row: 9 col: 19
+Parsed: . at row: 9 col: 20
+Parsed: . at row: 9 col: 21
+Parsed: . at row: 9 col: 22
+Parsed: . at row: 9 col: 23
+Parsed: . at row: 9 col: 24
+Parsed: . at row: 9 col: 25
+Parsed: . at row: 9 col: 26
+Parsed: . at row: 9 col: 27
+Parsed: . at row: 9 col: 28
+Parsed: . at row: 9 col: 29
+Parsed: . at row: 9 col: 30
+Parsed: . at row: 9 col: 31
+Parsed: . at row: 9 col: 32
+Parsed: . at row: 9 col: 33
+Parsed: . at row: 9 col: 34
+Parsed: # at row: 9 col: 35
+Parsed: # at row: 10 col: 0
+Parsed: . at row: 10 col: 1
+Parsed: # at row: 10 col: 2
+Parsed: # at row: 10 col: 3
+Parsed: # at row: 10 col: 4
+Parsed: # at row: 10 col: 5
+Parsed: # at row: 10 col: 6
+Parsed: # at row: 10 col: 7
+Parsed: # at row: 10 col: 8
+Parsed: . at row: 10 col: 9
+Parsed: # at row: 10 col: 10
+Parsed: # at row: 10 col: 11
+Parsed: # at row: 10 col: 12
+Parsed: # at row: 10 col: 13
+Parsed: # at row: 10 col: 14
+Parsed: # at row: 10 col: 15
+Parsed: # at row: 10 col: 16
+Parsed: # at row: 10 col: 17
+Parsed: . at row: 10 col: 18
+Parsed: # at row: 10 col: 19
+Parsed: # at row: 10 col: 20
+Parsed: B at row: 10 col: 21
+Parsed: B at row: 10 col: 22
+Parsed: B at row: 10 col: 23
+Parsed: # at row: 10 col: 24
+Parsed: # at row: 10 col: 25
+Parsed: . at row: 10 col: 26
+Parsed: # at row: 10 col: 27
+Parsed: # at row: 10 col: 28
+Parsed: . at row: 10 col: 29
+Parsed: # at row: 10 col: 30
+Parsed: # at row: 10 col: 31
+Parsed: # at row: 10 col: 32
+Parsed: # at row: 10 col: 33
+Parsed: . at row: 10 col: 34
+Parsed: # at row: 10 col: 35
+Parsed: # at row: 11 col: 0
+Parsed: . at row: 11 col: 1
+Parsed: # at row: 11 col: 2
+Parsed: # at row: 11 col: 3
+Parsed: # at row: 11 col: 4
+Parsed: B at row: 11 col: 5
+Parsed: B at row: 11 col: 6
+Parsed: # at row: 11 col: 7
+Parsed: # at row: 11 col: 8
+Parsed: . at row: 11 col: 9
+Parsed: # at row: 11 col: 10
+Parsed: # at row: 11 col: 11
+Parsed: # at row: 11 col: 12
+Parsed: # at row: 11 col: 13
+Parsed: # at row: 11 col: 14
+Parsed: # at row: 11 col: 15
+Parsed: # at row: 11 col: 16
+Parsed: # at row: 11 col: 17
+Parsed: . at row: 11 col: 18
+Parsed: # at row: 11 col: 19
+Parsed: # at row: 11 col: 20
+Parsed: B at row: 11 col: 21
+Parsed: B at row: 11 col: 22
+Parsed: B at row: 11 col: 23
+Parsed: # at row: 11 col: 24
+Parsed: # at row: 11 col: 25
+Parsed: . at row: 11 col: 26
+Parsed: # at row: 11 col: 27
+Parsed: # at row: 11 col: 28
+Parsed: . at row: 11 col: 29
+Parsed: # at row: 11 col: 30
+Parsed: P at row: 11 col: 31
+Parsed: # at row: 11 col: 32
+Parsed: # at row: 11 col: 33
+Parsed: . at row: 11 col: 34
+Parsed: # at row: 11 col: 35
+Parsed: # at row: 12 col: 0
+Parsed: . at row: 12 col: 1
+Parsed: # at row: 12 col: 2
+Parsed: # at row: 12 col: 3
+Parsed: # at row: 12 col: 4
+Parsed: # at row: 12 col: 5
+Parsed: B at row: 12 col: 6
+Parsed: # at row: 12 col: 7
+Parsed: # at row: 12 col: 8
+Parsed: . at row: 12 col: 9
+Parsed: . at row: 12 col: 10
+Parsed: . at row: 12 col: 11
+Parsed: . at row: 12 col: 12
+Parsed: # at row: 12 col: 13
+Parsed: # at row: 12 col: 14
+Parsed: . at row: 12 col: 15
+Parsed: . at row: 12 col: 16
+Parsed: . at row: 12 col: 17
+Parsed: . at row: 12 col: 18
+Parsed: # at row: 12 col: 19
+Parsed: # at row: 12 col: 20
+Parsed: B at row: 12 col: 21
+Parsed: B at row: 12 col: 22
+Parsed: B at row: 12 col: 23
+Parsed: # at row: 12 col: 24
+Parsed: # at row: 12 col: 25
+Parsed: . at row: 12 col: 26
+Parsed: # at row: 12 col: 27
+Parsed: # at row: 12 col: 28
+Parsed: . at row: 12 col: 29
+Parsed: # at row: 12 col: 30
+Parsed: . at row: 12 col: 31
+Parsed: # at row: 12 col: 32
+Parsed: # at row: 12 col: 33
+Parsed: . at row: 12 col: 34
+Parsed: # at row: 12 col: 35
+Parsed: # at row: 13 col: 0
+Parsed: . at row: 13 col: 1
+Parsed: # at row: 13 col: 2
+Parsed: # at row: 13 col: 3
+Parsed: B at row: 13 col: 4
+Parsed: # at row: 13 col: 5
+Parsed: # at row: 13 col: 6
+Parsed: # at row: 13 col: 7
+Parsed: # at row: 13 col: 8
+Parsed: . at row: 13 col: 9
+Parsed: # at row: 13 col: 10
+Parsed: # at row: 13 col: 11
+Parsed: . at row: 13 col: 12
+Parsed: # at row: 13 col: 13
+Parsed: # at row: 13 col: 14
+Parsed: . at row: 13 col: 15
+Parsed: # at row: 13 col: 16
+Parsed: # at row: 13 col: 17
+Parsed: . at row: 13 col: 18
+Parsed: # at row: 13 col: 19
+Parsed: # at row: 13 col: 20
+Parsed: # at row: 13 col: 21
+Parsed: # at row: 13 col: 22
+Parsed: # at row: 13 col: 23
+Parsed: # at row: 13 col: 24
+Parsed: # at row: 13 col: 25
+Parsed: . at row: 13 col: 26
+Parsed: # at row: 13 col: 27
+Parsed: # at row: 13 col: 28
+Parsed: . at row: 13 col: 29
+Parsed: # at row: 13 col: 30
+Parsed: . at row: 13 col: 31
+Parsed: # at row: 13 col: 32
+Parsed: # at row: 13 col: 33
+Parsed: . at row: 13 col: 34
+Parsed: # at row: 13 col: 35
+Parsed: # at row: 14 col: 0
+Parsed: . at row: 14 col: 1
+Parsed: # at row: 14 col: 2
+Parsed: # at row: 14 col: 3
+Parsed: B at row: 14 col: 4
+Parsed: B at row: 14 col: 5
+Parsed: # at row: 14 col: 6
+Parsed: # at row: 14 col: 7
+Parsed: # at row: 14 col: 8
+Parsed: . at row: 14 col: 9
+Parsed: # at row: 14 col: 10
+Parsed: # at row: 14 col: 11
+Parsed: . at row: 14 col: 12
+Parsed: # at row: 14 col: 13
+Parsed: # at row: 14 col: 14
+Parsed: . at row: 14 col: 15
+Parsed: # at row: 14 col: 16
+Parsed: # at row: 14 col: 17
+Parsed: . at row: 14 col: 18
+Parsed: # at row: 14 col: 19
+Parsed: # at row: 14 col: 20
+Parsed: # at row: 14 col: 21
+Parsed: # at row: 14 col: 22
+Parsed: # at row: 14 col: 23
+Parsed: # at row: 14 col: 24
+Parsed: # at row: 14 col: 25
+Parsed: . at row: 14 col: 26
+Parsed: # at row: 14 col: 27
+Parsed: # at row: 14 col: 28
+Parsed: . at row: 14 col: 29
+Parsed: . at row: 14 col: 30
+Parsed: . at row: 14 col: 31
+Parsed: # at row: 14 col: 32
+Parsed: # at row: 14 col: 33
+Parsed: . at row: 14 col: 34
+Parsed: # at row: 14 col: 35
+Parsed: # at row: 15 col: 0
+Parsed: . at row: 15 col: 1
+Parsed: # at row: 15 col: 2
+Parsed: # at row: 15 col: 3
+Parsed: B at row: 15 col: 4
+Parsed: B at row: 15 col: 5
+Parsed: B at row: 15 col: 6
+Parsed: # at row: 15 col: 7
+Parsed: # at row: 15 col: 8
+Parsed: . at row: 15 col: 9
+Parsed: # at row: 15 col: 10
+Parsed: # at row: 15 col: 11
+Parsed: . at row: 15 col: 12
+Parsed: # at row: 15 col: 13
+Parsed: # at row: 15 col: 14
+Parsed: . at row: 15 col: 15
+Parsed: # at row: 15 col: 16
+Parsed: # at row: 15 col: 17
+Parsed: . at row: 15 col: 18
+Parsed: # at row: 15 col: 19
+Parsed: # at row: 15 col: 20
+Parsed: B at row: 15 col: 21
+Parsed: B at row: 15 col: 22
+Parsed: B at row: 15 col: 23
+Parsed: # at row: 15 col: 24
+Parsed: # at row: 15 col: 25
+Parsed: . at row: 15 col: 26
+Parsed: # at row: 15 col: 27
+Parsed: # at row: 15 col: 28
+Parsed: # at row: 15 col: 29
+Parsed: # at row: 15 col: 30
+Parsed: # at row: 15 col: 31
+Parsed: # at row: 15 col: 32
+Parsed: # at row: 15 col: 33
+Parsed: . at row: 15 col: 34
+Parsed: # at row: 15 col: 35
+Parsed: # at row: 16 col: 0
+Parsed: . at row: 16 col: 1
+Parsed: # at row: 16 col: 2
+Parsed: # at row: 16 col: 3
+Parsed: # at row: 16 col: 4
+Parsed: # at row: 16 col: 5
+Parsed: # at row: 16 col: 6
+Parsed: # at row: 16 col: 7
+Parsed: # at row: 16 col: 8
+Parsed: . at row: 16 col: 9
+Parsed: # at row: 16 col: 10
+Parsed: # at row: 16 col: 11
+Parsed: . at row: 16 col: 12
+Parsed: # at row: 16 col: 13
+Parsed: # at row: 16 col: 14
+Parsed: . at row: 16 col: 15
+Parsed: # at row: 16 col: 16
+Parsed: # at row: 16 col: 17
+Parsed: . at row: 16 col: 18
+Parsed: # at row: 16 col: 19
+Parsed: # at row: 16 col: 20
+Parsed: # at row: 16 col: 21
+Parsed: # at row: 16 col: 22
+Parsed: # at row: 16 col: 23
+Parsed: # at row: 16 col: 24
+Parsed: # at row: 16 col: 25
+Parsed: . at row: 16 col: 26
+Parsed: # at row: 16 col: 27
+Parsed: # at row: 16 col: 28
+Parsed: # at row: 16 col: 29
+Parsed: # at row: 16 col: 30
+Parsed: # at row: 16 col: 31
+Parsed: # at row: 16 col: 32
+Parsed: # at row: 16 col: 33
+Parsed: . at row: 16 col: 34
+Parsed: # at row: 16 col: 35
+Parsed: # at row: 17 col: 0
+Parsed: . at row: 17 col: 1
+Parsed: . at row: 17 col: 2
+Parsed: . at row: 17 col: 3
+Parsed: . at row: 17 col: 4
+Parsed: . at row: 17 col: 5
+Parsed: . at row: 17 col: 6
+Parsed: . at row: 17 col: 7
+Parsed: . at row: 17 col: 8
+Parsed: . at row: 17 col: 9
+Parsed: . at row: 17 col: 10
+Parsed: . at row: 17 col: 11
+Parsed: . at row: 17 col: 12
+Parsed: . at row: 17 col: 13
+Parsed: . at row: 17 col: 14
+Parsed: . at row: 17 col: 15
+Parsed: . at row: 17 col: 16
+Parsed: . at row: 17 col: 17
+Parsed: . at row: 17 col: 18
+Parsed: . at row: 17 col: 19
+Parsed: . at row: 17 col: 20
+Parsed: . at row: 17 col: 21
+Parsed: . at row: 17 col: 22
+Parsed: . at row: 17 col: 23
+Parsed: . at row: 17 col: 24
+Parsed: . at row: 17 col: 25
+Parsed: . at row: 17 col: 26
+Parsed: . at row: 17 col: 27
+Parsed: . at row: 17 col: 28
+Parsed: . at row: 17 col: 29
+Parsed: . at row: 17 col: 30
+Parsed: . at row: 17 col: 31
+Parsed: . at row: 17 col: 32
+Parsed: . at row: 17 col: 33
+Parsed: . at row: 17 col: 34
+Parsed: # at row: 17 col: 35
+Parsed: # at row: 18 col: 0
+Parsed: . at row: 18 col: 1
+Parsed: # at row: 18 col: 2
+Parsed: # at row: 18 col: 3
+Parsed: # at row: 18 col: 4
+Parsed: # at row: 18 col: 5
+Parsed: # at row: 18 col: 6
+Parsed: # at row: 18 col: 7
+Parsed: . at row: 18 col: 8
+Parsed: # at row: 18 col: 9
+Parsed: # at row: 18 col: 10
+Parsed: # at row: 18 col: 11
+Parsed: . at row: 18 col: 12
+Parsed: # at row: 18 col: 13
+Parsed: # at row: 18 col: 14
+Parsed: # at row: 18 col: 15
+Parsed: # at row: 18 col: 16
+Parsed: # at row: 18 col: 17
+Parsed: # at row: 18 col: 18
+Parsed: # at row: 18 col: 19
+Parsed: # at row: 18 col: 20
+Parsed: # at row: 18 col: 21
+Parsed: # at row: 18 col: 22
+Parsed: . at row: 18 col: 23
+Parsed: # at row: 18 col: 24
+Parsed: # at row: 18 col: 25
+Parsed: # at row: 18 col: 26
+Parsed: # at row: 18 col: 27
+Parsed: # at row: 18 col: 28
+Parsed: # at row: 18 col: 29
+Parsed: . at row: 18 col: 30
+Parsed: # at row: 18 col: 31
+Parsed: # at row: 18 col: 32
+Parsed: # at row: 18 col: 33
+Parsed: . at row: 18 col: 34
+Parsed: # at row: 18 col: 35
+Parsed: # at row: 19 col: 0
+Parsed: . at row: 19 col: 1
+Parsed: # at row: 19 col: 2
+Parsed: B at row: 19 col: 3
+Parsed: B at row: 19 col: 4
+Parsed: B at row: 19 col: 5
+Parsed: B at row: 19 col: 6
+Parsed: # at row: 19 col: 7
+Parsed: . at row: 19 col: 8
+Parsed: # at row: 19 col: 9
+Parsed: # at row: 19 col: 10
+Parsed: # at row: 19 col: 11
+Parsed: . at row: 19 col: 12
+Parsed: # at row: 19 col: 13
+Parsed: # at row: 19 col: 14
+Parsed: # at row: 19 col: 15
+Parsed: # at row: 19 col: 16
+Parsed: # at row: 19 col: 17
+Parsed: B at row: 19 col: 18
+Parsed: B at row: 19 col: 19
+Parsed: B at row: 19 col: 20
+Parsed: # at row: 19 col: 21
+Parsed: . at row: 19 col: 22
+Parsed: . at row: 19 col: 23
+Parsed: . at row: 19 col: 24
+Parsed: . at row: 19 col: 25
+Parsed: . at row: 19 col: 26
+Parsed: . at row: 19 col: 27
+Parsed: . at row: 19 col: 28
+Parsed: . at row: 19 col: 29
+Parsed: . at row: 19 col: 30
+Parsed: # at row: 19 col: 31
+Parsed: B at row: 19 col: 32
+Parsed: # at row: 19 col: 33
+Parsed: . at row: 19 col: 34
+Parsed: # at row: 19 col: 35
+Parsed: # at row: 20 col: 0
+Parsed: . at row: 20 col: 1
+Parsed: # at row: 20 col: 2
+Parsed: # at row: 20 col: 3
+Parsed: # at row: 20 col: 4
+Parsed: # at row: 20 col: 5
+Parsed: # at row: 20 col: 6
+Parsed: # at row: 20 col: 7
+Parsed: . at row: 20 col: 8
+Parsed: . at row: 20 col: 9
+Parsed: . at row: 20 col: 10
+Parsed: . at row: 20 col: 11
+Parsed: . at row: 20 col: 12
+Parsed: . at row: 20 col: 13
+Parsed: . at row: 20 col: 14
+Parsed: . at row: 20 col: 15
+Parsed: . at row: 20 col: 16
+Parsed: # at row: 20 col: 17
+Parsed: # at row: 20 col: 18
+Parsed: # at row: 20 col: 19
+Parsed: # at row: 20 col: 20
+Parsed: # at row: 20 col: 21
+Parsed: . at row: 20 col: 22
+Parsed: # at row: 20 col: 23
+Parsed: # at row: 20 col: 24
+Parsed: # at row: 20 col: 25
+Parsed: . at row: 20 col: 26
+Parsed: # at row: 20 col: 27
+Parsed: # at row: 20 col: 28
+Parsed: # at row: 20 col: 29
+Parsed: . at row: 20 col: 30
+Parsed: # at row: 20 col: 31
+Parsed: B at row: 20 col: 32
+Parsed: # at row: 20 col: 33
+Parsed: . at row: 20 col: 34
+Parsed: # at row: 20 col: 35
+Parsed: # at row: 21 col: 0
+Parsed: . at row: 21 col: 1
+Parsed: . at row: 21 col: 2
+Parsed: . at row: 21 col: 3
+Parsed: . at row: 21 col: 4
+Parsed: . at row: 21 col: 5
+Parsed: . at row: 21 col: 6
+Parsed: . at row: 21 col: 7
+Parsed: . at row: 21 col: 8
+Parsed: # at row: 21 col: 9
+Parsed: # at row: 21 col: 10
+Parsed: # at row: 21 col: 11
+Parsed: # at row: 21 col: 12
+Parsed: # at row: 21 col: 13
+Parsed: # at row: 21 col: 14
+Parsed: # at row: 21 col: 15
+Parsed: . at row: 21 col: 16
+Parsed: . at row: 21 col: 17
+Parsed: . at row: 21 col: 18
+Parsed: . at row: 21 col: 19
+Parsed: . at row: 21 col: 20
+Parsed: . at row: 21 col: 21
+Parsed: . at row: 21 col: 22
+Parsed: # at row: 21 col: 23
+Parsed: B at row: 21 col: 24
+Parsed: # at row: 21 col: 25
+Parsed: . at row: 21 col: 26
+Parsed: # at row: 21 col: 27
+Parsed: B at row: 21 col: 28
+Parsed: # at row: 21 col: 29
+Parsed: . at row: 21 col: 30
+Parsed: # at row: 21 col: 31
+Parsed: B at row: 21 col: 32
+Parsed: # at row: 21 col: 33
+Parsed: . at row: 21 col: 34
+Parsed: # at row: 21 col: 35
+Parsed: # at row: 22 col: 0
+Parsed: . at row: 22 col: 1
+Parsed: # at row: 22 col: 2
+Parsed: # at row: 22 col: 3
+Parsed: # at row: 22 col: 4
+Parsed: # at row: 22 col: 5
+Parsed: # at row: 22 col: 6
+Parsed: # at row: 22 col: 7
+Parsed: . at row: 22 col: 8
+Parsed: # at row: 22 col: 9
+Parsed: B at row: 22 col: 10
+Parsed: B at row: 22 col: 11
+Parsed: B at row: 22 col: 12
+Parsed: B at row: 22 col: 13
+Parsed: B at row: 22 col: 14
+Parsed: # at row: 22 col: 15
+Parsed: # at row: 22 col: 16
+Parsed: # at row: 22 col: 17
+Parsed: # at row: 22 col: 18
+Parsed: # at row: 22 col: 19
+Parsed: . at row: 22 col: 20
+Parsed: # at row: 22 col: 21
+Parsed: # at row: 22 col: 22
+Parsed: # at row: 22 col: 23
+Parsed: B at row: 22 col: 24
+Parsed: # at row: 22 col: 25
+Parsed: . at row: 22 col: 26
+Parsed: # at row: 22 col: 27
+Parsed: B at row: 22 col: 28
+Parsed: # at row: 22 col: 29
+Parsed: . at row: 22 col: 30
+Parsed: # at row: 22 col: 31
+Parsed: # at row: 22 col: 32
+Parsed: # at row: 22 col: 33
+Parsed: . at row: 22 col: 34
+Parsed: # at row: 22 col: 35
+Parsed: # at row: 23 col: 0
+Parsed: . at row: 23 col: 1
+Parsed: # at row: 23 col: 2
+Parsed: B at row: 23 col: 3
+Parsed: B at row: 23 col: 4
+Parsed: B at row: 23 col: 5
+Parsed: B at row: 23 col: 6
+Parsed: # at row: 23 col: 7
+Parsed: . at row: 23 col: 8
+Parsed: # at row: 23 col: 9
+Parsed: # at row: 23 col: 10
+Parsed: # at row: 23 col: 11
+Parsed: # at row: 23 col: 12
+Parsed: # at row: 23 col: 13
+Parsed: # at row: 23 col: 14
+Parsed: # at row: 23 col: 15
+Parsed: # at row: 23 col: 16
+Parsed: # at row: 23 col: 17
+Parsed: # at row: 23 col: 18
+Parsed: # at row: 23 col: 19
+Parsed: . at row: 23 col: 20
+Parsed: # at row: 23 col: 21
+Parsed: # at row: 23 col: 22
+Parsed: # at row: 23 col: 23
+Parsed: # at row: 23 col: 24
+Parsed: # at row: 23 col: 25
+Parsed: . at row: 23 col: 26
+Parsed: # at row: 23 col: 27
+Parsed: # at row: 23 col: 28
+Parsed: # at row: 23 col: 29
+Parsed: . at row: 23 col: 30
+Parsed: . at row: 23 col: 31
+Parsed: . at row: 23 col: 32
+Parsed: . at row: 23 col: 33
+Parsed: . at row: 23 col: 34
+Parsed: # at row: 23 col: 35
+Parsed: # at row: 24 col: 0
+Parsed: . at row: 24 col: 1
+Parsed: # at row: 24 col: 2
+Parsed: # at row: 24 col: 3
+Parsed: # at row: 24 col: 4
+Parsed: # at row: 24 col: 5
+Parsed: # at row: 24 col: 6
+Parsed: # at row: 24 col: 7
+Parsed: . at row: 24 col: 8
+Parsed: # at row: 24 col: 9
+Parsed: . at row: 24 col: 10
+Parsed: . at row: 24 col: 11
+Parsed: . at row: 24 col: 12
+Parsed: . at row: 24 col: 13
+Parsed: . at row: 24 col: 14
+Parsed: P at row: 24 col: 15
+Parsed: . at row: 24 col: 16
+Parsed: . at row: 24 col: 17
+Parsed: . at row: 24 col: 18
+Parsed: . at row: 24 col: 19
+Parsed: . at row: 24 col: 20
+Parsed: . at row: 24 col: 21
+Parsed: . at row: 24 col: 22
+Parsed: . at row: 24 col: 23
+Parsed: . at row: 24 col: 24
+Parsed: . at row: 24 col: 25
+Parsed: . at row: 24 col: 26
+Parsed: . at row: 24 col: 27
+Parsed: . at row: 24 col: 28
+Parsed: # at row: 24 col: 29
+Parsed: . at row: 24 col: 30
+Parsed: # at row: 24 col: 31
+Parsed: # at row: 24 col: 32
+Parsed: # at row: 24 col: 33
+Parsed: . at row: 24 col: 34
+Parsed: # at row: 24 col: 35
+Parsed: # at row: 25 col: 0
+Parsed: . at row: 25 col: 1
+Parsed: . at row: 25 col: 2
+Parsed: . at row: 25 col: 3
+Parsed: . at row: 25 col: 4
+Parsed: . at row: 25 col: 5
+Parsed: . at row: 25 col: 6
+Parsed: . at row: 25 col: 7
+Parsed: . at row: 25 col: 8
+Parsed: . at row: 25 col: 9
+Parsed: . at row: 25 col: 10
+Parsed: # at row: 25 col: 11
+Parsed: # at row: 25 col: 12
+Parsed: # at row: 25 col: 13
+Parsed: # at row: 25 col: 14
+Parsed: # at row: 25 col: 15
+Parsed: # at row: 25 col: 16
+Parsed: # at row: 25 col: 17
+Parsed: # at row: 25 col: 18
+Parsed: # at row: 25 col: 19
+Parsed: . at row: 25 col: 20
+Parsed: # at row: 25 col: 21
+Parsed: # at row: 25 col: 22
+Parsed: # at row: 25 col: 23
+Parsed: # at row: 25 col: 24
+Parsed: # at row: 25 col: 25
+Parsed: # at row: 25 col: 26
+Parsed: # at row: 25 col: 27
+Parsed: . at row: 25 col: 28
+Parsed: # at row: 25 col: 29
+Parsed: . at row: 25 col: 30
+Parsed: # at row: 25 col: 31
+Parsed: B at row: 25 col: 32
+Parsed: # at row: 25 col: 33
+Parsed: . at row: 25 col: 34
+Parsed: # at row: 25 col: 35
+Parsed: # at row: 26 col: 0
+Parsed: . at row: 26 col: 1
+Parsed: # at row: 26 col: 2
+Parsed: # at row: 26 col: 3
+Parsed: # at row: 26 col: 4
+Parsed: # at row: 26 col: 5
+Parsed: # at row: 26 col: 6
+Parsed: # at row: 26 col: 7
+Parsed: # at row: 26 col: 8
+Parsed: . at row: 26 col: 9
+Parsed: # at row: 26 col: 10
+Parsed: # at row: 26 col: 11
+Parsed: # at row: 26 col: 12
+Parsed: # at row: 26 col: 13
+Parsed: # at row: 26 col: 14
+Parsed: # at row: 26 col: 15
+Parsed: # at row: 26 col: 16
+Parsed: # at row: 26 col: 17
+Parsed: # at row: 26 col: 18
+Parsed: # at row: 26 col: 19
+Parsed: . at row: 26 col: 20
+Parsed: # at row: 26 col: 21
+Parsed: B at row: 26 col: 22
+Parsed: B at row: 26 col: 23
+Parsed: B at row: 26 col: 24
+Parsed: B at row: 26 col: 25
+Parsed: B at row: 26 col: 26
+Parsed: # at row: 26 col: 27
+Parsed: . at row: 26 col: 28
+Parsed: . at row: 26 col: 29
+Parsed: . at row: 26 col: 30
+Parsed: # at row: 26 col: 31
+Parsed: B at row: 26 col: 32
+Parsed: # at row: 26 col: 33
+Parsed: . at row: 26 col: 34
+Parsed: # at row: 26 col: 35
+Parsed: # at row: 27 col: 0
+Parsed: . at row: 27 col: 1
+Parsed: # at row: 27 col: 2
+Parsed: # at row: 27 col: 3
+Parsed: # at row: 27 col: 4
+Parsed: # at row: 27 col: 5
+Parsed: # at row: 27 col: 6
+Parsed: # at row: 27 col: 7
+Parsed: # at row: 27 col: 8
+Parsed: . at row: 27 col: 9
+Parsed: . at row: 27 col: 10
+Parsed: . at row: 27 col: 11
+Parsed: . at row: 27 col: 12
+Parsed: . at row: 27 col: 13
+Parsed: . at row: 27 col: 14
+Parsed: . at row: 27 col: 15
+Parsed: . at row: 27 col: 16
+Parsed: . at row: 27 col: 17
+Parsed: . at row: 27 col: 18
+Parsed: . at row: 27 col: 19
+Parsed: . at row: 27 col: 20
+Parsed: # at row: 27 col: 21
+Parsed: # at row: 27 col: 22
+Parsed: # at row: 27 col: 23
+Parsed: # at row: 27 col: 24
+Parsed: # at row: 27 col: 25
+Parsed: # at row: 27 col: 26
+Parsed: # at row: 27 col: 27
+Parsed: . at row: 27 col: 28
+Parsed: # at row: 27 col: 29
+Parsed: . at row: 27 col: 30
+Parsed: # at row: 27 col: 31
+Parsed: # at row: 27 col: 32
+Parsed: # at row: 27 col: 33
+Parsed: . at row: 27 col: 34
+Parsed: # at row: 27 col: 35
+Parsed: # at row: 28 col: 0
+Parsed: . at row: 28 col: 1
+Parsed: . at row: 28 col: 2
+Parsed: . at row: 28 col: 3
+Parsed: . at row: 28 col: 4
+Parsed: . at row: 28 col: 5
+Parsed: . at row: 28 col: 6
+Parsed: . at row: 28 col: 7
+Parsed: . at row: 28 col: 8
+Parsed: . at row: 28 col: 9
+Parsed: . at row: 28 col: 10
+Parsed: . at row: 28 col: 11
+Parsed: . at row: 28 col: 12
+Parsed: . at row: 28 col: 13
+Parsed: . at row: 28 col: 14
+Parsed: . at row: 28 col: 15
+Parsed: . at row: 28 col: 16
+Parsed: P at row: 28 col: 17
+Parsed: . at row: 28 col: 18
+Parsed: . at row: 28 col: 19
+Parsed: . at row: 28 col: 20
+Parsed: . at row: 28 col: 21
+Parsed: . at row: 28 col: 22
+Parsed: . at row: 28 col: 23
+Parsed: . at row: 28 col: 24
+Parsed: . at row: 28 col: 25
+Parsed: . at row: 28 col: 26
+Parsed: . at row: 28 col: 27
+Parsed: . at row: 28 col: 28
+Parsed: # at row: 28 col: 29
+Parsed: . at row: 28 col: 30
+Parsed: . at row: 28 col: 31
+Parsed: . at row: 28 col: 32
+Parsed: . at row: 28 col: 33
+Parsed: . at row: 28 col: 34
+Parsed: # at row: 28 col: 35
+Parsed: # at row: 29 col: 0
+Parsed: # at row: 29 col: 1
+Parsed: # at row: 29 col: 2
+Parsed: # at row: 29 col: 3
+Parsed: # at row: 29 col: 4
+Parsed: # at row: 29 col: 5
+Parsed: # at row: 29 col: 6
+Parsed: # at row: 29 col: 7
+Parsed: # at row: 29 col: 8
+Parsed: # at row: 29 col: 9
+Parsed: # at row: 29 col: 10
+Parsed: # at row: 29 col: 11
+Parsed: # at row: 29 col: 12
+Parsed: # at row: 29 col: 13
+Parsed: # at row: 29 col: 14
+Parsed: # at row: 29 col: 15
+Parsed: # at row: 29 col: 16
+Parsed: # at row: 29 col: 17
+Parsed: # at row: 29 col: 18
+Parsed: # at row: 29 col: 19
+Parsed: # at row: 29 col: 20
+Parsed: # at row: 29 col: 21
+Parsed: # at row: 29 col: 22
+Parsed: # at row: 29 col: 23
+Parsed: # at row: 29 col: 24
+Parsed: # at row: 29 col: 25
+Parsed: # at row: 29 col: 26
+Parsed: # at row: 29 col: 27
+Parsed: # at row: 29 col: 28
+Parsed: # at row: 29 col: 29
+Parsed: # at row: 29 col: 30
+Parsed: # at row: 29 col: 31
+Parsed: # at row: 29 col: 32
+Parsed: # at row: 29 col: 33
+Parsed: # at row: 29 col: 34
+Parsed: # at row: 29 col: 35
+CHOSEN: PACMAN
+loaded image: Assets/pacman_move.png
+loaded image: Assets/pacman_die.png
+loaded image: Assets/stop.png
+loaded image: Assets/breakW.png
+loaded image: Assets/heart.png
+creating ghost 0
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_red.png
+creating ghost 1
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_pink.png
+creating ghost 2
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_orange.png
+creating ghost 3
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_blue.png
+Key with keycode 189 down
+Key with keycode 4 down
+Ghost 1 = 20
+Ghost 3 = 20
+Ghost 1 = 20
+Ghost 3 = 20
+Ghost 1 = 20
+Ghost 3 = 20
+Ghost 1 = 19
+Ghost 3 = 19
+Key with keycode 19 down
+Ghost 1 = 19
+Ghost 3 = 19
+Ghost 1 = 17
+Ghost 3 = 17
+Ghost 1 = 17
+Ghost 3 = 17
+Ghost 1 = 17
+Ghost 3 = 17
+Key with keycode 1 down
+Ghost 1 = 17
+Ghost 3 = 17
+Ghost 1 = 17
+Ghost 3 = 17
+Ghost 1 = 17
+Ghost 3 = 19
+Ghost 1 = 17
+Ghost 3 = 17
+Key with keycode 4 down
+Ghost 3 = 17
+Ghost 1 = 13
+Ghost 3 = 17
+Ghost 1 = 11
+Ghost 3 = 17
+Ghost 3 = 17
+Ghost 3 = 18
+Ghost 1 = 7
+Ghost 3 = 19
+Key with keycode 23 down
+Ghost 1 = 5
+Ghost 3 = 19
+Ghost 3 = 19
+Ghost 3 = 19
+Ghost 3 = 19
+Key with keycode 19 down
+collide with ghost
+
+Key with keycode 4 down
+timer: 0
+timer: 0
+timer: 0
+timer: 0
+timer: 0
+timer: 0
+timer: 1
+timer: 1
+timer: 1
+timer: 1
+timer: 2
+timer: 2
+timer: 2
+timer: 2
+timer: 2
+timer: 3
+timer: 3
+timer: 3
+timer: 3
+timer: 3
+timer: 4
+timer: 4
+timer: 4
+timer: 4
+timer: 4
+timer: 4
+timer: 5
+timer: 5
+timer: 5
+timer: 5
+timer: 5
+timer: 5
+timer: 5
+timer: 6
+timer: 6
+timer: 6
+timer: 6
+timer: 6
+timer: 6
+timer: 7
+timer: 7
+timer: 7
+timer: 7
+timer: 7
+timer: 7
+timer: 8
+timer: 8
+timer: 8
+timer: 8
+timer: 8
+timer: 8
+timer: 9
+timer: 9
+timer: 9
+timer: 9
+timer: 9
+timer: 9
+timer: 10
+timer: 10
+timer: 10
+timer: 10
+timer: 10
+timer: 11
+timer: 11
+timer: 11
+timer: 11
+timer: 11
+timer: 11
+timer: 11
+timer: 12
+timer: 12
+timer: 12
+timer: 12
+timer: 12
+timer: 12
+timer: 12
+timer: 13
+Cont: 1619
+Key with keycode 4 down
+Key with keycode 23 down
+Ghost 1 = 20
+Ghost 1 = 20
+Ghost 3 = 20
+Ghost 1 = 20
+Ghost 3 = 18
+Ghost 1 = 20
+Ghost 3 = 18
+Key with keycode 1 down
+Ghost 1 = 20
+Ghost 3 = 18
+Ghost 1 = 20
+Ghost 3 = 18
+Key with keycode 23 down
+Ghost 1 = 20
+Ghost 3 = 18
+Ghost 1 = 20
+Ghost 3 = 18
+Ghost 1 = 20
+Ghost 3 = 18
+Key with keycode 1 down
+Ghost 1 = 20
+Ghost 3 = 18
+Ghost 1 = 18
+Ghost 3 = 20
+Ghost 3 = 18
+collide with ghost
+
+timer: 0
+timer: 0
+timer: 0
+timer: 0
+timer: 0
+timer: 0
+timer: 0
+timer: 1
+timer: 1
+timer: 1
+timer: 1
+timer: 1
+timer: 1
+timer: 2
+timer: 2
+timer: 2
+timer: 2
+timer: 2
+timer: 2
+timer: 2
+timer: 3
+timer: 3
+timer: 3
+timer: 3
+timer: 3
+timer: 3
+timer: 4
+timer: 4
+timer: 4
+timer: 4
+timer: 4
+timer: 4
+timer: 5
+timer: 5
+timer: 5
+timer: 5
+timer: 5
+timer: 5
+timer: 6
+timer: 6
+timer: 6
+timer: 6
+timer: 6
+timer: 6
+timer: 6
+timer: 6
+timer: 7
+timer: 7
+timer: 7
+timer: 7
+timer: 7
+timer: 7
+timer: 8
+timer: 8
+timer: 8
+timer: 8
+timer: 8
+timer: 8
+timer: 9
+timer: 9
+timer: 9
+timer: 9
+timer: 9
+timer: 10
+timer: 10
+timer: 10
+timer: 10
+timer: 10
+timer: 10
+timer: 11
+timer: 11
+timer: 11
+timer: 11
+timer: 11
+timer: 11
+timer: 11
+timer: 12
+timer: 12
+timer: 12
+timer: 12
+timer: 12
+timer: 12
+timer: 12
+timer: 13
+Cont: 2514
+Key with keycode 23 down
+Key with keycode 4 down
+Ghost 3 = 20
+Key with keycode 23 down
+Ghost 1 = 20
+Ghost 3 = 20
+Ghost 1 = 18
+Ghost 3 = 20
+Ghost 1 = 18
+Ghost 3 = 20
+Ghost 1 = 18
+Ghost 3 = 20
+Ghost 1 = 18
+Ghost 3 = 20
+Ghost 1 = 18
+Ghost 3 = 18
+Key with keycode 4 down
+Ghost 1 = 20
+Ghost 1 = 20
+Ghost 1 = 20
+Ghost 3 = 12
+Key with keycode 23 down
+Ghost 1 = 20
+Ghost 3 = 10
+Ghost 1 = 20
+Ghost 1 = 20
+Ghost 3 = 6
+Key with keycode 4 down
+Ghost 3 = 4
+Ghost 1 = 20
+Ghost 1 = 18
+collide with ghost
+
+timer: 0
+Game Over
+timer: 0
+Game Over
+timer: 0
+Game Over
+timer: 0
+Game Over
+timer: 0
+Game Over
+timer: 1
+Game Over
+timer: 1
+Game Over
+timer: 1
+Game Over
+timer: 1
+Game Over
+timer: 1
+Game Over
+timer: 2
+Game Over
+timer: 2
+Game Over
+timer: 2
+Game Over
+timer: 2
+Game Over
+timer: 2
+Game Over
+timer: 2
+Game Over
+timer: 3
+Game Over
+timer: 3
+Game Over
+timer: 3
+Game Over
+timer: 3
+Game Over
+timer: 3
+Game Over
+timer: 3
+Game Over
+timer: 3
+Game Over
+timer: 4
+Game Over
+timer: 4
+Game Over
+timer: 4
+Game Over
+timer: 4
+Game Over
+timer: 4
+Game Over
+timer: 5
+Game Over
+timer: 5
+Game Over
+timer: 5
+Game Over
+timer: 5
+Game Over
+timer: 5
+Game Over
+timer: 5
+Game Over
+timer: 6
+Game Over
+timer: 6
+Game Over
+timer: 6
+Game Over
+timer: 6
+Game Over
+timer: 6
+Game Over
+timer: 7
+Game Over
+timer: 7
+Game Over
+timer: 7
+Game Over
+timer: 7
+Game Over
+timer: 7
+Game Over
+timer: 7
+Game Over
+timer: 7
+Game Over
+timer: 8
+Game Over
+timer: 8
+Game Over
+timer: 8
+Game Over
+timer: 8
+Game Over
+timer: 8
+Game Over
+timer: 9
+Game Over
+timer: 9
+Game Over
+timer: 9
+Game Over
+timer: 9
+Game Over
+timer: 9
+Game Over
+timer: 10
+Game Over
+timer: 10
+Game Over
+timer: 10
+Game Over
+timer: 10
+Game Over
+timer: 10
+Game Over
+timer: 11
+Game Over
+timer: 11
+Game Over
+timer: 11
+Game Over
+timer: 11
+Game Over
+timer: 11
+Game Over
+timer: 11
+Game Over
+timer: 12
+Game Over
+timer: 12
+Game Over
+timer: 12
+Game Over
+timer: 12
+Game Over
+timer: 12
+Game Over
+timer: 12
+Game Over
+timer: 13
+Game Over
+Time: 2510 ~ 19.61 
+Over scene created
+Change scene from Start to Over
+main game destroyed
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/over.png
+loaded image: Assets/podium.png
+Key with keycode 19 down
+Key with keycode 19 down
+Key with keycode 70 down
+Key with keycode 67 down
+Saving: Inputss 36 21.61
+Data Saved
+Header Updated
+Total Rows Found
+Ready to parse content
+Parsed & Sorted
+tests
+Input
+tuhan
+Total Played: 32
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+Key with keycode 67 down
+Menu scene created
+Change scene from Over to Menu
+Over Destroyed
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/rankRaw.png
+loaded image: Assets/rankRaw(1).png
+loaded image: Assets/btnJohn(1).png
+loaded image: Assets/btnJohn.png
+loaded image: Assets/p_c.png
+loaded image: Assets/p_c(1).png
+loaded image: Assets/title.png
+Total Rows Found
+Ready to parse content
+Parsed & Sorted
+Settings scene created
+Change scene from Menu to Settings
+Menu Destroyed
+loaded image: Assets/bar.png
+loaded image: Assets/bar.png
+594
+Updated eVol: 0.98
+Key with keycode 67 down
+Menu scene created
+Change scene from Settings to Menu
+Setting Destroyed
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/rankRaw.png
+loaded image: Assets/rankRaw(1).png
+loaded image: Assets/btnJohn(1).png
+loaded image: Assets/btnJohn.png
+loaded image: Assets/p_c.png
+loaded image: Assets/p_c(1).png
+loaded image: Assets/title.png
+Total Rows Found
+Ready to parse content
+Parsed & Sorted
+Key with keycode 67 down
+Start scene created
+Change scene from Menu to Start
+Menu Destroyed
+Map File Path: Assets/map_nthu.txt
+
+Ready to parse txt row = 30 col = 36
+Malloc Complete: Start to parse
+Parsed: # at row: 0 col: 0
+Parsed: # at row: 0 col: 1
+Parsed: # at row: 0 col: 2
+Parsed: # at row: 0 col: 3
+Parsed: # at row: 0 col: 4
+Parsed: # at row: 0 col: 5
+Parsed: # at row: 0 col: 6
+Parsed: # at row: 0 col: 7
+Parsed: # at row: 0 col: 8
+Parsed: # at row: 0 col: 9
+Parsed: # at row: 0 col: 10
+Parsed: # at row: 0 col: 11
+Parsed: # at row: 0 col: 12
+Parsed: # at row: 0 col: 13
+Parsed: # at row: 0 col: 14
+Parsed: # at row: 0 col: 15
+Parsed: # at row: 0 col: 16
+Parsed: # at row: 0 col: 17
+Parsed: # at row: 0 col: 18
+Parsed: # at row: 0 col: 19
+Parsed: # at row: 0 col: 20
+Parsed: # at row: 0 col: 21
+Parsed: # at row: 0 col: 22
+Parsed: # at row: 0 col: 23
+Parsed: # at row: 0 col: 24
+Parsed: # at row: 0 col: 25
+Parsed: # at row: 0 col: 26
+Parsed: # at row: 0 col: 27
+Parsed: # at row: 0 col: 28
+Parsed: # at row: 0 col: 29
+Parsed: # at row: 0 col: 30
+Parsed: # at row: 0 col: 31
+Parsed: # at row: 0 col: 32
+Parsed: # at row: 0 col: 33
+Parsed: # at row: 0 col: 34
+Parsed: # at row: 0 col: 35
+Parsed: # at row: 1 col: 0
+Parsed: . at row: 1 col: 1
+Parsed: . at row: 1 col: 2
+Parsed: . at row: 1 col: 3
+Parsed: . at row: 1 col: 4
+Parsed: . at row: 1 col: 5
+Parsed: . at row: 1 col: 6
+Parsed: . at row: 1 col: 7
+Parsed: . at row: 1 col: 8
+Parsed: . at row: 1 col: 9
+Parsed: . at row: 1 col: 10
+Parsed: . at row: 1 col: 11
+Parsed: . at row: 1 col: 12
+Parsed: . at row: 1 col: 13
+Parsed: . at row: 1 col: 14
+Parsed: . at row: 1 col: 15
+Parsed: . at row: 1 col: 16
+Parsed: . at row: 1 col: 17
+Parsed: . at row: 1 col: 18
+Parsed: # at row: 1 col: 19
+Parsed: # at row: 1 col: 20
+Parsed: # at row: 1 col: 21
+Parsed: . at row: 1 col: 22
+Parsed: . at row: 1 col: 23
+Parsed: . at row: 1 col: 24
+Parsed: . at row: 1 col: 25
+Parsed: . at row: 1 col: 26
+Parsed: . at row: 1 col: 27
+Parsed: . at row: 1 col: 28
+Parsed: . at row: 1 col: 29
+Parsed: . at row: 1 col: 30
+Parsed: # at row: 1 col: 31
+Parsed: # at row: 1 col: 32
+Parsed: # at row: 1 col: 33
+Parsed: # at row: 1 col: 34
+Parsed: # at row: 1 col: 35
+Parsed: # at row: 2 col: 0
+Parsed: . at row: 2 col: 1
+Parsed: # at row: 2 col: 2
+Parsed: # at row: 2 col: 3
+Parsed: # at row: 2 col: 4
+Parsed: # at row: 2 col: 5
+Parsed: . at row: 2 col: 6
+Parsed: # at row: 2 col: 7
+Parsed: # at row: 2 col: 8
+Parsed: # at row: 2 col: 9
+Parsed: # at row: 2 col: 10
+Parsed: # at row: 2 col: 11
+Parsed: # at row: 2 col: 12
+Parsed: # at row: 2 col: 13
+Parsed: # at row: 2 col: 14
+Parsed: # at row: 2 col: 15
+Parsed: # at row: 2 col: 16
+Parsed: # at row: 2 col: 17
+Parsed: . at row: 2 col: 18
+Parsed: . at row: 2 col: 19
+Parsed: . at row: 2 col: 20
+Parsed: . at row: 2 col: 21
+Parsed: . at row: 2 col: 22
+Parsed: # at row: 2 col: 23
+Parsed: # at row: 2 col: 24
+Parsed: # at row: 2 col: 25
+Parsed: # at row: 2 col: 26
+Parsed: # at row: 2 col: 27
+Parsed: # at row: 2 col: 28
+Parsed: # at row: 2 col: 29
+Parsed: . at row: 2 col: 30
+Parsed: . at row: 2 col: 31
+Parsed: . at row: 2 col: 32
+Parsed: . at row: 2 col: 33
+Parsed: . at row: 2 col: 34
+Parsed: # at row: 2 col: 35
+Parsed: # at row: 3 col: 0
+Parsed: . at row: 3 col: 1
+Parsed: # at row: 3 col: 2
+Parsed: # at row: 3 col: 3
+Parsed: # at row: 3 col: 4
+Parsed: # at row: 3 col: 5
+Parsed: . at row: 3 col: 6
+Parsed: # at row: 3 col: 7
+Parsed: . at row: 3 col: 8
+Parsed: . at row: 3 col: 9
+Parsed: . at row: 3 col: 10
+Parsed: . at row: 3 col: 11
+Parsed: . at row: 3 col: 12
+Parsed: . at row: 3 col: 13
+Parsed: . at row: 3 col: 14
+Parsed: . at row: 3 col: 15
+Parsed: . at row: 3 col: 16
+Parsed: . at row: 3 col: 17
+Parsed: . at row: 3 col: 18
+Parsed: # at row: 3 col: 19
+Parsed: # at row: 3 col: 20
+Parsed: # at row: 3 col: 21
+Parsed: . at row: 3 col: 22
+Parsed: . at row: 3 col: 23
+Parsed: . at row: 3 col: 24
+Parsed: . at row: 3 col: 25
+Parsed: . at row: 3 col: 26
+Parsed: # at row: 3 col: 27
+Parsed: B at row: 3 col: 28
+Parsed: # at row: 3 col: 29
+Parsed: . at row: 3 col: 30
+Parsed: # at row: 3 col: 31
+Parsed: # at row: 3 col: 32
+Parsed: # at row: 3 col: 33
+Parsed: . at row: 3 col: 34
+Parsed: # at row: 3 col: 35
+Parsed: # at row: 4 col: 0
+Parsed: . at row: 4 col: 1
+Parsed: P at row: 4 col: 2
+Parsed: . at row: 4 col: 3
+Parsed: . at row: 4 col: 4
+Parsed: . at row: 4 col: 5
+Parsed: . at row: 4 col: 6
+Parsed: . at row: 4 col: 7
+Parsed: . at row: 4 col: 8
+Parsed: # at row: 4 col: 9
+Parsed: # at row: 4 col: 10
+Parsed: # at row: 4 col: 11
+Parsed: # at row: 4 col: 12
+Parsed: # at row: 4 col: 13
+Parsed: # at row: 4 col: 14
+Parsed: # at row: 4 col: 15
+Parsed: # at row: 4 col: 16
+Parsed: # at row: 4 col: 17
+Parsed: . at row: 4 col: 18
+Parsed: . at row: 4 col: 19
+Parsed: . at row: 4 col: 20
+Parsed: . at row: 4 col: 21
+Parsed: . at row: 4 col: 22
+Parsed: # at row: 4 col: 23
+Parsed: . at row: 4 col: 24
+Parsed: # at row: 4 col: 25
+Parsed: . at row: 4 col: 26
+Parsed: # at row: 4 col: 27
+Parsed: # at row: 4 col: 28
+Parsed: # at row: 4 col: 29
+Parsed: . at row: 4 col: 30
+Parsed: # at row: 4 col: 31
+Parsed: B at row: 4 col: 32
+Parsed: # at row: 4 col: 33
+Parsed: . at row: 4 col: 34
+Parsed: # at row: 4 col: 35
+Parsed: # at row: 5 col: 0
+Parsed: . at row: 5 col: 1
+Parsed: # at row: 5 col: 2
+Parsed: # at row: 5 col: 3
+Parsed: # at row: 5 col: 4
+Parsed: # at row: 5 col: 5
+Parsed: # at row: 5 col: 6
+Parsed: . at row: 5 col: 7
+Parsed: # at row: 5 col: 8
+Parsed: # at row: 5 col: 9
+Parsed: # at row: 5 col: 10
+Parsed: B at row: 5 col: 11
+Parsed: B at row: 5 col: 12
+Parsed: B at row: 5 col: 13
+Parsed: B at row: 5 col: 14
+Parsed: B at row: 5 col: 15
+Parsed: B at row: 5 col: 16
+Parsed: # at row: 5 col: 17
+Parsed: # at row: 5 col: 18
+Parsed: # at row: 5 col: 19
+Parsed: . at row: 5 col: 20
+Parsed: # at row: 5 col: 21
+Parsed: # at row: 5 col: 22
+Parsed: # at row: 5 col: 23
+Parsed: . at row: 5 col: 24
+Parsed: # at row: 5 col: 25
+Parsed: . at row: 5 col: 26
+Parsed: # at row: 5 col: 27
+Parsed: P at row: 5 col: 28
+Parsed: # at row: 5 col: 29
+Parsed: . at row: 5 col: 30
+Parsed: # at row: 5 col: 31
+Parsed: B at row: 5 col: 32
+Parsed: # at row: 5 col: 33
+Parsed: . at row: 5 col: 34
+Parsed: # at row: 5 col: 35
+Parsed: # at row: 6 col: 0
+Parsed: . at row: 6 col: 1
+Parsed: # at row: 6 col: 2
+Parsed: B at row: 6 col: 3
+Parsed: B at row: 6 col: 4
+Parsed: B at row: 6 col: 5
+Parsed: # at row: 6 col: 6
+Parsed: . at row: 6 col: 7
+Parsed: . at row: 6 col: 8
+Parsed: . at row: 6 col: 9
+Parsed: # at row: 6 col: 10
+Parsed: B at row: 6 col: 11
+Parsed: B at row: 6 col: 12
+Parsed: B at row: 6 col: 13
+Parsed: B at row: 6 col: 14
+Parsed: B at row: 6 col: 15
+Parsed: B at row: 6 col: 16
+Parsed: B at row: 6 col: 17
+Parsed: B at row: 6 col: 18
+Parsed: # at row: 6 col: 19
+Parsed: . at row: 6 col: 20
+Parsed: # at row: 6 col: 21
+Parsed: # at row: 6 col: 22
+Parsed: # at row: 6 col: 23
+Parsed: . at row: 6 col: 24
+Parsed: # at row: 6 col: 25
+Parsed: . at row: 6 col: 26
+Parsed: # at row: 6 col: 27
+Parsed: . at row: 6 col: 28
+Parsed: # at row: 6 col: 29
+Parsed: . at row: 6 col: 30
+Parsed: # at row: 6 col: 31
+Parsed: B at row: 6 col: 32
+Parsed: # at row: 6 col: 33
+Parsed: . at row: 6 col: 34
+Parsed: # at row: 6 col: 35
+Parsed: # at row: 7 col: 0
+Parsed: . at row: 7 col: 1
+Parsed: # at row: 7 col: 2
+Parsed: B at row: 7 col: 3
+Parsed: B at row: 7 col: 4
+Parsed: B at row: 7 col: 5
+Parsed: # at row: 7 col: 6
+Parsed: . at row: 7 col: 7
+Parsed: # at row: 7 col: 8
+Parsed: . at row: 7 col: 9
+Parsed: # at row: 7 col: 10
+Parsed: B at row: 7 col: 11
+Parsed: B at row: 7 col: 12
+Parsed: B at row: 7 col: 13
+Parsed: B at row: 7 col: 14
+Parsed: B at row: 7 col: 15
+Parsed: B at row: 7 col: 16
+Parsed: B at row: 7 col: 17
+Parsed: B at row: 7 col: 18
+Parsed: # at row: 7 col: 19
+Parsed: . at row: 7 col: 20
+Parsed: # at row: 7 col: 21
+Parsed: # at row: 7 col: 22
+Parsed: # at row: 7 col: 23
+Parsed: . at row: 7 col: 24
+Parsed: # at row: 7 col: 25
+Parsed: . at row: 7 col: 26
+Parsed: . at row: 7 col: 27
+Parsed: . at row: 7 col: 28
+Parsed: # at row: 7 col: 29
+Parsed: . at row: 7 col: 30
+Parsed: # at row: 7 col: 31
+Parsed: B at row: 7 col: 32
+Parsed: # at row: 7 col: 33
+Parsed: . at row: 7 col: 34
+Parsed: # at row: 7 col: 35
+Parsed: # at row: 8 col: 0
+Parsed: . at row: 8 col: 1
+Parsed: # at row: 8 col: 2
+Parsed: # at row: 8 col: 3
+Parsed: # at row: 8 col: 4
+Parsed: # at row: 8 col: 5
+Parsed: # at row: 8 col: 6
+Parsed: . at row: 8 col: 7
+Parsed: # at row: 8 col: 8
+Parsed: . at row: 8 col: 9
+Parsed: # at row: 8 col: 10
+Parsed: # at row: 8 col: 11
+Parsed: # at row: 8 col: 12
+Parsed: # at row: 8 col: 13
+Parsed: # at row: 8 col: 14
+Parsed: # at row: 8 col: 15
+Parsed: # at row: 8 col: 16
+Parsed: # at row: 8 col: 17
+Parsed: # at row: 8 col: 18
+Parsed: # at row: 8 col: 19
+Parsed: . at row: 8 col: 20
+Parsed: # at row: 8 col: 21
+Parsed: # at row: 8 col: 22
+Parsed: # at row: 8 col: 23
+Parsed: . at row: 8 col: 24
+Parsed: # at row: 8 col: 25
+Parsed: # at row: 8 col: 26
+Parsed: # at row: 8 col: 27
+Parsed: # at row: 8 col: 28
+Parsed: # at row: 8 col: 29
+Parsed: . at row: 8 col: 30
+Parsed: # at row: 8 col: 31
+Parsed: # at row: 8 col: 32
+Parsed: # at row: 8 col: 33
+Parsed: . at row: 8 col: 34
+Parsed: # at row: 8 col: 35
+Parsed: # at row: 9 col: 0
+Parsed: . at row: 9 col: 1
+Parsed: . at row: 9 col: 2
+Parsed: . at row: 9 col: 3
+Parsed: . at row: 9 col: 4
+Parsed: . at row: 9 col: 5
+Parsed: . at row: 9 col: 6
+Parsed: . at row: 9 col: 7
+Parsed: . at row: 9 col: 8
+Parsed: . at row: 9 col: 9
+Parsed: . at row: 9 col: 10
+Parsed: . at row: 9 col: 11
+Parsed: . at row: 9 col: 12
+Parsed: . at row: 9 col: 13
+Parsed: . at row: 9 col: 14
+Parsed: . at row: 9 col: 15
+Parsed: . at row: 9 col: 16
+Parsed: . at row: 9 col: 17
+Parsed: . at row: 9 col: 18
+Parsed: . at row: 9 col: 19
+Parsed: . at row: 9 col: 20
+Parsed: . at row: 9 col: 21
+Parsed: . at row: 9 col: 22
+Parsed: . at row: 9 col: 23
+Parsed: . at row: 9 col: 24
+Parsed: . at row: 9 col: 25
+Parsed: . at row: 9 col: 26
+Parsed: . at row: 9 col: 27
+Parsed: . at row: 9 col: 28
+Parsed: . at row: 9 col: 29
+Parsed: . at row: 9 col: 30
+Parsed: . at row: 9 col: 31
+Parsed: . at row: 9 col: 32
+Parsed: . at row: 9 col: 33
+Parsed: . at row: 9 col: 34
+Parsed: # at row: 9 col: 35
+Parsed: # at row: 10 col: 0
+Parsed: . at row: 10 col: 1
+Parsed: # at row: 10 col: 2
+Parsed: # at row: 10 col: 3
+Parsed: # at row: 10 col: 4
+Parsed: # at row: 10 col: 5
+Parsed: # at row: 10 col: 6
+Parsed: # at row: 10 col: 7
+Parsed: # at row: 10 col: 8
+Parsed: . at row: 10 col: 9
+Parsed: # at row: 10 col: 10
+Parsed: # at row: 10 col: 11
+Parsed: # at row: 10 col: 12
+Parsed: # at row: 10 col: 13
+Parsed: # at row: 10 col: 14
+Parsed: # at row: 10 col: 15
+Parsed: # at row: 10 col: 16
+Parsed: # at row: 10 col: 17
+Parsed: . at row: 10 col: 18
+Parsed: # at row: 10 col: 19
+Parsed: # at row: 10 col: 20
+Parsed: B at row: 10 col: 21
+Parsed: B at row: 10 col: 22
+Parsed: B at row: 10 col: 23
+Parsed: # at row: 10 col: 24
+Parsed: # at row: 10 col: 25
+Parsed: . at row: 10 col: 26
+Parsed: # at row: 10 col: 27
+Parsed: # at row: 10 col: 28
+Parsed: . at row: 10 col: 29
+Parsed: # at row: 10 col: 30
+Parsed: # at row: 10 col: 31
+Parsed: # at row: 10 col: 32
+Parsed: # at row: 10 col: 33
+Parsed: . at row: 10 col: 34
+Parsed: # at row: 10 col: 35
+Parsed: # at row: 11 col: 0
+Parsed: . at row: 11 col: 1
+Parsed: # at row: 11 col: 2
+Parsed: # at row: 11 col: 3
+Parsed: # at row: 11 col: 4
+Parsed: B at row: 11 col: 5
+Parsed: B at row: 11 col: 6
+Parsed: # at row: 11 col: 7
+Parsed: # at row: 11 col: 8
+Parsed: . at row: 11 col: 9
+Parsed: # at row: 11 col: 10
+Parsed: # at row: 11 col: 11
+Parsed: # at row: 11 col: 12
+Parsed: # at row: 11 col: 13
+Parsed: # at row: 11 col: 14
+Parsed: # at row: 11 col: 15
+Parsed: # at row: 11 col: 16
+Parsed: # at row: 11 col: 17
+Parsed: . at row: 11 col: 18
+Parsed: # at row: 11 col: 19
+Parsed: # at row: 11 col: 20
+Parsed: B at row: 11 col: 21
+Parsed: B at row: 11 col: 22
+Parsed: B at row: 11 col: 23
+Parsed: # at row: 11 col: 24
+Parsed: # at row: 11 col: 25
+Parsed: . at row: 11 col: 26
+Parsed: # at row: 11 col: 27
+Parsed: # at row: 11 col: 28
+Parsed: . at row: 11 col: 29
+Parsed: # at row: 11 col: 30
+Parsed: P at row: 11 col: 31
+Parsed: # at row: 11 col: 32
+Parsed: # at row: 11 col: 33
+Parsed: . at row: 11 col: 34
+Parsed: # at row: 11 col: 35
+Parsed: # at row: 12 col: 0
+Parsed: . at row: 12 col: 1
+Parsed: # at row: 12 col: 2
+Parsed: # at row: 12 col: 3
+Parsed: # at row: 12 col: 4
+Parsed: # at row: 12 col: 5
+Parsed: B at row: 12 col: 6
+Parsed: # at row: 12 col: 7
+Parsed: # at row: 12 col: 8
+Parsed: . at row: 12 col: 9
+Parsed: . at row: 12 col: 10
+Parsed: . at row: 12 col: 11
+Parsed: . at row: 12 col: 12
+Parsed: # at row: 12 col: 13
+Parsed: # at row: 12 col: 14
+Parsed: . at row: 12 col: 15
+Parsed: . at row: 12 col: 16
+Parsed: . at row: 12 col: 17
+Parsed: . at row: 12 col: 18
+Parsed: # at row: 12 col: 19
+Parsed: # at row: 12 col: 20
+Parsed: B at row: 12 col: 21
+Parsed: B at row: 12 col: 22
+Parsed: B at row: 12 col: 23
+Parsed: # at row: 12 col: 24
+Parsed: # at row: 12 col: 25
+Parsed: . at row: 12 col: 26
+Parsed: # at row: 12 col: 27
+Parsed: # at row: 12 col: 28
+Parsed: . at row: 12 col: 29
+Parsed: # at row: 12 col: 30
+Parsed: . at row: 12 col: 31
+Parsed: # at row: 12 col: 32
+Parsed: # at row: 12 col: 33
+Parsed: . at row: 12 col: 34
+Parsed: # at row: 12 col: 35
+Parsed: # at row: 13 col: 0
+Parsed: . at row: 13 col: 1
+Parsed: # at row: 13 col: 2
+Parsed: # at row: 13 col: 3
+Parsed: B at row: 13 col: 4
+Parsed: # at row: 13 col: 5
+Parsed: # at row: 13 col: 6
+Parsed: # at row: 13 col: 7
+Parsed: # at row: 13 col: 8
+Parsed: . at row: 13 col: 9
+Parsed: # at row: 13 col: 10
+Parsed: # at row: 13 col: 11
+Parsed: . at row: 13 col: 12
+Parsed: # at row: 13 col: 13
+Parsed: # at row: 13 col: 14
+Parsed: . at row: 13 col: 15
+Parsed: # at row: 13 col: 16
+Parsed: # at row: 13 col: 17
+Parsed: . at row: 13 col: 18
+Parsed: # at row: 13 col: 19
+Parsed: # at row: 13 col: 20
+Parsed: # at row: 13 col: 21
+Parsed: # at row: 13 col: 22
+Parsed: # at row: 13 col: 23
+Parsed: # at row: 13 col: 24
+Parsed: # at row: 13 col: 25
+Parsed: . at row: 13 col: 26
+Parsed: # at row: 13 col: 27
+Parsed: # at row: 13 col: 28
+Parsed: . at row: 13 col: 29
+Parsed: # at row: 13 col: 30
+Parsed: . at row: 13 col: 31
+Parsed: # at row: 13 col: 32
+Parsed: # at row: 13 col: 33
+Parsed: . at row: 13 col: 34
+Parsed: # at row: 13 col: 35
+Parsed: # at row: 14 col: 0
+Parsed: . at row: 14 col: 1
+Parsed: # at row: 14 col: 2
+Parsed: # at row: 14 col: 3
+Parsed: B at row: 14 col: 4
+Parsed: B at row: 14 col: 5
+Parsed: # at row: 14 col: 6
+Parsed: # at row: 14 col: 7
+Parsed: # at row: 14 col: 8
+Parsed: . at row: 14 col: 9
+Parsed: # at row: 14 col: 10
+Parsed: # at row: 14 col: 11
+Parsed: . at row: 14 col: 12
+Parsed: # at row: 14 col: 13
+Parsed: # at row: 14 col: 14
+Parsed: . at row: 14 col: 15
+Parsed: # at row: 14 col: 16
+Parsed: # at row: 14 col: 17
+Parsed: . at row: 14 col: 18
+Parsed: # at row: 14 col: 19
+Parsed: # at row: 14 col: 20
+Parsed: # at row: 14 col: 21
+Parsed: # at row: 14 col: 22
+Parsed: # at row: 14 col: 23
+Parsed: # at row: 14 col: 24
+Parsed: # at row: 14 col: 25
+Parsed: . at row: 14 col: 26
+Parsed: # at row: 14 col: 27
+Parsed: # at row: 14 col: 28
+Parsed: . at row: 14 col: 29
+Parsed: . at row: 14 col: 30
+Parsed: . at row: 14 col: 31
+Parsed: # at row: 14 col: 32
+Parsed: # at row: 14 col: 33
+Parsed: . at row: 14 col: 34
+Parsed: # at row: 14 col: 35
+Parsed: # at row: 15 col: 0
+Parsed: . at row: 15 col: 1
+Parsed: # at row: 15 col: 2
+Parsed: # at row: 15 col: 3
+Parsed: B at row: 15 col: 4
+Parsed: B at row: 15 col: 5
+Parsed: B at row: 15 col: 6
+Parsed: # at row: 15 col: 7
+Parsed: # at row: 15 col: 8
+Parsed: . at row: 15 col: 9
+Parsed: # at row: 15 col: 10
+Parsed: # at row: 15 col: 11
+Parsed: . at row: 15 col: 12
+Parsed: # at row: 15 col: 13
+Parsed: # at row: 15 col: 14
+Parsed: . at row: 15 col: 15
+Parsed: # at row: 15 col: 16
+Parsed: # at row: 15 col: 17
+Parsed: . at row: 15 col: 18
+Parsed: # at row: 15 col: 19
+Parsed: # at row: 15 col: 20
+Parsed: B at row: 15 col: 21
+Parsed: B at row: 15 col: 22
+Parsed: B at row: 15 col: 23
+Parsed: # at row: 15 col: 24
+Parsed: # at row: 15 col: 25
+Parsed: . at row: 15 col: 26
+Parsed: # at row: 15 col: 27
+Parsed: # at row: 15 col: 28
+Parsed: # at row: 15 col: 29
+Parsed: # at row: 15 col: 30
+Parsed: # at row: 15 col: 31
+Parsed: # at row: 15 col: 32
+Parsed: # at row: 15 col: 33
+Parsed: . at row: 15 col: 34
+Parsed: # at row: 15 col: 35
+Parsed: # at row: 16 col: 0
+Parsed: . at row: 16 col: 1
+Parsed: # at row: 16 col: 2
+Parsed: # at row: 16 col: 3
+Parsed: # at row: 16 col: 4
+Parsed: # at row: 16 col: 5
+Parsed: # at row: 16 col: 6
+Parsed: # at row: 16 col: 7
+Parsed: # at row: 16 col: 8
+Parsed: . at row: 16 col: 9
+Parsed: # at row: 16 col: 10
+Parsed: # at row: 16 col: 11
+Parsed: . at row: 16 col: 12
+Parsed: # at row: 16 col: 13
+Parsed: # at row: 16 col: 14
+Parsed: . at row: 16 col: 15
+Parsed: # at row: 16 col: 16
+Parsed: # at row: 16 col: 17
+Parsed: . at row: 16 col: 18
+Parsed: # at row: 16 col: 19
+Parsed: # at row: 16 col: 20
+Parsed: # at row: 16 col: 21
+Parsed: # at row: 16 col: 22
+Parsed: # at row: 16 col: 23
+Parsed: # at row: 16 col: 24
+Parsed: # at row: 16 col: 25
+Parsed: . at row: 16 col: 26
+Parsed: # at row: 16 col: 27
+Parsed: # at row: 16 col: 28
+Parsed: # at row: 16 col: 29
+Parsed: # at row: 16 col: 30
+Parsed: # at row: 16 col: 31
+Parsed: # at row: 16 col: 32
+Parsed: # at row: 16 col: 33
+Parsed: . at row: 16 col: 34
+Parsed: # at row: 16 col: 35
+Parsed: # at row: 17 col: 0
+Parsed: . at row: 17 col: 1
+Parsed: . at row: 17 col: 2
+Parsed: . at row: 17 col: 3
+Parsed: . at row: 17 col: 4
+Parsed: . at row: 17 col: 5
+Parsed: . at row: 17 col: 6
+Parsed: . at row: 17 col: 7
+Parsed: . at row: 17 col: 8
+Parsed: . at row: 17 col: 9
+Parsed: . at row: 17 col: 10
+Parsed: . at row: 17 col: 11
+Parsed: . at row: 17 col: 12
+Parsed: . at row: 17 col: 13
+Parsed: . at row: 17 col: 14
+Parsed: . at row: 17 col: 15
+Parsed: . at row: 17 col: 16
+Parsed: . at row: 17 col: 17
+Parsed: . at row: 17 col: 18
+Parsed: . at row: 17 col: 19
+Parsed: . at row: 17 col: 20
+Parsed: . at row: 17 col: 21
+Parsed: . at row: 17 col: 22
+Parsed: . at row: 17 col: 23
+Parsed: . at row: 17 col: 24
+Parsed: . at row: 17 col: 25
+Parsed: . at row: 17 col: 26
+Parsed: . at row: 17 col: 27
+Parsed: . at row: 17 col: 28
+Parsed: . at row: 17 col: 29
+Parsed: . at row: 17 col: 30
+Parsed: . at row: 17 col: 31
+Parsed: . at row: 17 col: 32
+Parsed: . at row: 17 col: 33
+Parsed: . at row: 17 col: 34
+Parsed: # at row: 17 col: 35
+Parsed: # at row: 18 col: 0
+Parsed: . at row: 18 col: 1
+Parsed: # at row: 18 col: 2
+Parsed: # at row: 18 col: 3
+Parsed: # at row: 18 col: 4
+Parsed: # at row: 18 col: 5
+Parsed: # at row: 18 col: 6
+Parsed: # at row: 18 col: 7
+Parsed: . at row: 18 col: 8
+Parsed: # at row: 18 col: 9
+Parsed: # at row: 18 col: 10
+Parsed: # at row: 18 col: 11
+Parsed: . at row: 18 col: 12
+Parsed: # at row: 18 col: 13
+Parsed: # at row: 18 col: 14
+Parsed: # at row: 18 col: 15
+Parsed: # at row: 18 col: 16
+Parsed: # at row: 18 col: 17
+Parsed: # at row: 18 col: 18
+Parsed: # at row: 18 col: 19
+Parsed: # at row: 18 col: 20
+Parsed: # at row: 18 col: 21
+Parsed: # at row: 18 col: 22
+Parsed: . at row: 18 col: 23
+Parsed: # at row: 18 col: 24
+Parsed: # at row: 18 col: 25
+Parsed: # at row: 18 col: 26
+Parsed: # at row: 18 col: 27
+Parsed: # at row: 18 col: 28
+Parsed: # at row: 18 col: 29
+Parsed: . at row: 18 col: 30
+Parsed: # at row: 18 col: 31
+Parsed: # at row: 18 col: 32
+Parsed: # at row: 18 col: 33
+Parsed: . at row: 18 col: 34
+Parsed: # at row: 18 col: 35
+Parsed: # at row: 19 col: 0
+Parsed: . at row: 19 col: 1
+Parsed: # at row: 19 col: 2
+Parsed: B at row: 19 col: 3
+Parsed: B at row: 19 col: 4
+Parsed: B at row: 19 col: 5
+Parsed: B at row: 19 col: 6
+Parsed: # at row: 19 col: 7
+Parsed: . at row: 19 col: 8
+Parsed: # at row: 19 col: 9
+Parsed: # at row: 19 col: 10
+Parsed: # at row: 19 col: 11
+Parsed: . at row: 19 col: 12
+Parsed: # at row: 19 col: 13
+Parsed: # at row: 19 col: 14
+Parsed: # at row: 19 col: 15
+Parsed: # at row: 19 col: 16
+Parsed: # at row: 19 col: 17
+Parsed: B at row: 19 col: 18
+Parsed: B at row: 19 col: 19
+Parsed: B at row: 19 col: 20
+Parsed: # at row: 19 col: 21
+Parsed: . at row: 19 col: 22
+Parsed: . at row: 19 col: 23
+Parsed: . at row: 19 col: 24
+Parsed: . at row: 19 col: 25
+Parsed: . at row: 19 col: 26
+Parsed: . at row: 19 col: 27
+Parsed: . at row: 19 col: 28
+Parsed: . at row: 19 col: 29
+Parsed: . at row: 19 col: 30
+Parsed: # at row: 19 col: 31
+Parsed: B at row: 19 col: 32
+Parsed: # at row: 19 col: 33
+Parsed: . at row: 19 col: 34
+Parsed: # at row: 19 col: 35
+Parsed: # at row: 20 col: 0
+Parsed: . at row: 20 col: 1
+Parsed: # at row: 20 col: 2
+Parsed: # at row: 20 col: 3
+Parsed: # at row: 20 col: 4
+Parsed: # at row: 20 col: 5
+Parsed: # at row: 20 col: 6
+Parsed: # at row: 20 col: 7
+Parsed: . at row: 20 col: 8
+Parsed: . at row: 20 col: 9
+Parsed: . at row: 20 col: 10
+Parsed: . at row: 20 col: 11
+Parsed: . at row: 20 col: 12
+Parsed: . at row: 20 col: 13
+Parsed: . at row: 20 col: 14
+Parsed: . at row: 20 col: 15
+Parsed: . at row: 20 col: 16
+Parsed: # at row: 20 col: 17
+Parsed: # at row: 20 col: 18
+Parsed: # at row: 20 col: 19
+Parsed: # at row: 20 col: 20
+Parsed: # at row: 20 col: 21
+Parsed: . at row: 20 col: 22
+Parsed: # at row: 20 col: 23
+Parsed: # at row: 20 col: 24
+Parsed: # at row: 20 col: 25
+Parsed: . at row: 20 col: 26
+Parsed: # at row: 20 col: 27
+Parsed: # at row: 20 col: 28
+Parsed: # at row: 20 col: 29
+Parsed: . at row: 20 col: 30
+Parsed: # at row: 20 col: 31
+Parsed: B at row: 20 col: 32
+Parsed: # at row: 20 col: 33
+Parsed: . at row: 20 col: 34
+Parsed: # at row: 20 col: 35
+Parsed: # at row: 21 col: 0
+Parsed: . at row: 21 col: 1
+Parsed: . at row: 21 col: 2
+Parsed: . at row: 21 col: 3
+Parsed: . at row: 21 col: 4
+Parsed: . at row: 21 col: 5
+Parsed: . at row: 21 col: 6
+Parsed: . at row: 21 col: 7
+Parsed: . at row: 21 col: 8
+Parsed: # at row: 21 col: 9
+Parsed: # at row: 21 col: 10
+Parsed: # at row: 21 col: 11
+Parsed: # at row: 21 col: 12
+Parsed: # at row: 21 col: 13
+Parsed: # at row: 21 col: 14
+Parsed: # at row: 21 col: 15
+Parsed: . at row: 21 col: 16
+Parsed: . at row: 21 col: 17
+Parsed: . at row: 21 col: 18
+Parsed: . at row: 21 col: 19
+Parsed: . at row: 21 col: 20
+Parsed: . at row: 21 col: 21
+Parsed: . at row: 21 col: 22
+Parsed: # at row: 21 col: 23
+Parsed: B at row: 21 col: 24
+Parsed: # at row: 21 col: 25
+Parsed: . at row: 21 col: 26
+Parsed: # at row: 21 col: 27
+Parsed: B at row: 21 col: 28
+Parsed: # at row: 21 col: 29
+Parsed: . at row: 21 col: 30
+Parsed: # at row: 21 col: 31
+Parsed: B at row: 21 col: 32
+Parsed: # at row: 21 col: 33
+Parsed: . at row: 21 col: 34
+Parsed: # at row: 21 col: 35
+Parsed: # at row: 22 col: 0
+Parsed: . at row: 22 col: 1
+Parsed: # at row: 22 col: 2
+Parsed: # at row: 22 col: 3
+Parsed: # at row: 22 col: 4
+Parsed: # at row: 22 col: 5
+Parsed: # at row: 22 col: 6
+Parsed: # at row: 22 col: 7
+Parsed: . at row: 22 col: 8
+Parsed: # at row: 22 col: 9
+Parsed: B at row: 22 col: 10
+Parsed: B at row: 22 col: 11
+Parsed: B at row: 22 col: 12
+Parsed: B at row: 22 col: 13
+Parsed: B at row: 22 col: 14
+Parsed: # at row: 22 col: 15
+Parsed: # at row: 22 col: 16
+Parsed: # at row: 22 col: 17
+Parsed: # at row: 22 col: 18
+Parsed: # at row: 22 col: 19
+Parsed: . at row: 22 col: 20
+Parsed: # at row: 22 col: 21
+Parsed: # at row: 22 col: 22
+Parsed: # at row: 22 col: 23
+Parsed: B at row: 22 col: 24
+Parsed: # at row: 22 col: 25
+Parsed: . at row: 22 col: 26
+Parsed: # at row: 22 col: 27
+Parsed: B at row: 22 col: 28
+Parsed: # at row: 22 col: 29
+Parsed: . at row: 22 col: 30
+Parsed: # at row: 22 col: 31
+Parsed: # at row: 22 col: 32
+Parsed: # at row: 22 col: 33
+Parsed: . at row: 22 col: 34
+Parsed: # at row: 22 col: 35
+Parsed: # at row: 23 col: 0
+Parsed: . at row: 23 col: 1
+Parsed: # at row: 23 col: 2
+Parsed: B at row: 23 col: 3
+Parsed: B at row: 23 col: 4
+Parsed: B at row: 23 col: 5
+Parsed: B at row: 23 col: 6
+Parsed: # at row: 23 col: 7
+Parsed: . at row: 23 col: 8
+Parsed: # at row: 23 col: 9
+Parsed: # at row: 23 col: 10
+Parsed: # at row: 23 col: 11
+Parsed: # at row: 23 col: 12
+Parsed: # at row: 23 col: 13
+Parsed: # at row: 23 col: 14
+Parsed: # at row: 23 col: 15
+Parsed: # at row: 23 col: 16
+Parsed: # at row: 23 col: 17
+Parsed: # at row: 23 col: 18
+Parsed: # at row: 23 col: 19
+Parsed: . at row: 23 col: 20
+Parsed: # at row: 23 col: 21
+Parsed: # at row: 23 col: 22
+Parsed: # at row: 23 col: 23
+Parsed: # at row: 23 col: 24
+Parsed: # at row: 23 col: 25
+Parsed: . at row: 23 col: 26
+Parsed: # at row: 23 col: 27
+Parsed: # at row: 23 col: 28
+Parsed: # at row: 23 col: 29
+Parsed: . at row: 23 col: 30
+Parsed: . at row: 23 col: 31
+Parsed: . at row: 23 col: 32
+Parsed: . at row: 23 col: 33
+Parsed: . at row: 23 col: 34
+Parsed: # at row: 23 col: 35
+Parsed: # at row: 24 col: 0
+Parsed: . at row: 24 col: 1
+Parsed: # at row: 24 col: 2
+Parsed: # at row: 24 col: 3
+Parsed: # at row: 24 col: 4
+Parsed: # at row: 24 col: 5
+Parsed: # at row: 24 col: 6
+Parsed: # at row: 24 col: 7
+Parsed: . at row: 24 col: 8
+Parsed: # at row: 24 col: 9
+Parsed: . at row: 24 col: 10
+Parsed: . at row: 24 col: 11
+Parsed: . at row: 24 col: 12
+Parsed: . at row: 24 col: 13
+Parsed: . at row: 24 col: 14
+Parsed: P at row: 24 col: 15
+Parsed: . at row: 24 col: 16
+Parsed: . at row: 24 col: 17
+Parsed: . at row: 24 col: 18
+Parsed: . at row: 24 col: 19
+Parsed: . at row: 24 col: 20
+Parsed: . at row: 24 col: 21
+Parsed: . at row: 24 col: 22
+Parsed: . at row: 24 col: 23
+Parsed: . at row: 24 col: 24
+Parsed: . at row: 24 col: 25
+Parsed: . at row: 24 col: 26
+Parsed: . at row: 24 col: 27
+Parsed: . at row: 24 col: 28
+Parsed: # at row: 24 col: 29
+Parsed: . at row: 24 col: 30
+Parsed: # at row: 24 col: 31
+Parsed: # at row: 24 col: 32
+Parsed: # at row: 24 col: 33
+Parsed: . at row: 24 col: 34
+Parsed: # at row: 24 col: 35
+Parsed: # at row: 25 col: 0
+Parsed: . at row: 25 col: 1
+Parsed: . at row: 25 col: 2
+Parsed: . at row: 25 col: 3
+Parsed: . at row: 25 col: 4
+Parsed: . at row: 25 col: 5
+Parsed: . at row: 25 col: 6
+Parsed: . at row: 25 col: 7
+Parsed: . at row: 25 col: 8
+Parsed: . at row: 25 col: 9
+Parsed: . at row: 25 col: 10
+Parsed: # at row: 25 col: 11
+Parsed: # at row: 25 col: 12
+Parsed: # at row: 25 col: 13
+Parsed: # at row: 25 col: 14
+Parsed: # at row: 25 col: 15
+Parsed: # at row: 25 col: 16
+Parsed: # at row: 25 col: 17
+Parsed: # at row: 25 col: 18
+Parsed: # at row: 25 col: 19
+Parsed: . at row: 25 col: 20
+Parsed: # at row: 25 col: 21
+Parsed: # at row: 25 col: 22
+Parsed: # at row: 25 col: 23
+Parsed: # at row: 25 col: 24
+Parsed: # at row: 25 col: 25
+Parsed: # at row: 25 col: 26
+Parsed: # at row: 25 col: 27
+Parsed: . at row: 25 col: 28
+Parsed: # at row: 25 col: 29
+Parsed: . at row: 25 col: 30
+Parsed: # at row: 25 col: 31
+Parsed: B at row: 25 col: 32
+Parsed: # at row: 25 col: 33
+Parsed: . at row: 25 col: 34
+Parsed: # at row: 25 col: 35
+Parsed: # at row: 26 col: 0
+Parsed: . at row: 26 col: 1
+Parsed: # at row: 26 col: 2
+Parsed: # at row: 26 col: 3
+Parsed: # at row: 26 col: 4
+Parsed: # at row: 26 col: 5
+Parsed: # at row: 26 col: 6
+Parsed: # at row: 26 col: 7
+Parsed: # at row: 26 col: 8
+Parsed: . at row: 26 col: 9
+Parsed: # at row: 26 col: 10
+Parsed: # at row: 26 col: 11
+Parsed: # at row: 26 col: 12
+Parsed: # at row: 26 col: 13
+Parsed: # at row: 26 col: 14
+Parsed: # at row: 26 col: 15
+Parsed: # at row: 26 col: 16
+Parsed: # at row: 26 col: 17
+Parsed: # at row: 26 col: 18
+Parsed: # at row: 26 col: 19
+Parsed: . at row: 26 col: 20
+Parsed: # at row: 26 col: 21
+Parsed: B at row: 26 col: 22
+Parsed: B at row: 26 col: 23
+Parsed: B at row: 26 col: 24
+Parsed: B at row: 26 col: 25
+Parsed: B at row: 26 col: 26
+Parsed: # at row: 26 col: 27
+Parsed: . at row: 26 col: 28
+Parsed: . at row: 26 col: 29
+Parsed: . at row: 26 col: 30
+Parsed: # at row: 26 col: 31
+Parsed: B at row: 26 col: 32
+Parsed: # at row: 26 col: 33
+Parsed: . at row: 26 col: 34
+Parsed: # at row: 26 col: 35
+Parsed: # at row: 27 col: 0
+Parsed: . at row: 27 col: 1
+Parsed: # at row: 27 col: 2
+Parsed: # at row: 27 col: 3
+Parsed: # at row: 27 col: 4
+Parsed: # at row: 27 col: 5
+Parsed: # at row: 27 col: 6
+Parsed: # at row: 27 col: 7
+Parsed: # at row: 27 col: 8
+Parsed: . at row: 27 col: 9
+Parsed: . at row: 27 col: 10
+Parsed: . at row: 27 col: 11
+Parsed: . at row: 27 col: 12
+Parsed: . at row: 27 col: 13
+Parsed: . at row: 27 col: 14
+Parsed: . at row: 27 col: 15
+Parsed: . at row: 27 col: 16
+Parsed: . at row: 27 col: 17
+Parsed: . at row: 27 col: 18
+Parsed: . at row: 27 col: 19
+Parsed: . at row: 27 col: 20
+Parsed: # at row: 27 col: 21
+Parsed: # at row: 27 col: 22
+Parsed: # at row: 27 col: 23
+Parsed: # at row: 27 col: 24
+Parsed: # at row: 27 col: 25
+Parsed: # at row: 27 col: 26
+Parsed: # at row: 27 col: 27
+Parsed: . at row: 27 col: 28
+Parsed: # at row: 27 col: 29
+Parsed: . at row: 27 col: 30
+Parsed: # at row: 27 col: 31
+Parsed: # at row: 27 col: 32
+Parsed: # at row: 27 col: 33
+Parsed: . at row: 27 col: 34
+Parsed: # at row: 27 col: 35
+Parsed: # at row: 28 col: 0
+Parsed: . at row: 28 col: 1
+Parsed: . at row: 28 col: 2
+Parsed: . at row: 28 col: 3
+Parsed: . at row: 28 col: 4
+Parsed: . at row: 28 col: 5
+Parsed: . at row: 28 col: 6
+Parsed: . at row: 28 col: 7
+Parsed: . at row: 28 col: 8
+Parsed: . at row: 28 col: 9
+Parsed: . at row: 28 col: 10
+Parsed: . at row: 28 col: 11
+Parsed: . at row: 28 col: 12
+Parsed: . at row: 28 col: 13
+Parsed: . at row: 28 col: 14
+Parsed: . at row: 28 col: 15
+Parsed: . at row: 28 col: 16
+Parsed: P at row: 28 col: 17
+Parsed: . at row: 28 col: 18
+Parsed: . at row: 28 col: 19
+Parsed: . at row: 28 col: 20
+Parsed: . at row: 28 col: 21
+Parsed: . at row: 28 col: 22
+Parsed: . at row: 28 col: 23
+Parsed: . at row: 28 col: 24
+Parsed: . at row: 28 col: 25
+Parsed: . at row: 28 col: 26
+Parsed: . at row: 28 col: 27
+Parsed: . at row: 28 col: 28
+Parsed: # at row: 28 col: 29
+Parsed: . at row: 28 col: 30
+Parsed: . at row: 28 col: 31
+Parsed: . at row: 28 col: 32
+Parsed: . at row: 28 col: 33
+Parsed: . at row: 28 col: 34
+Parsed: # at row: 28 col: 35
+Parsed: # at row: 29 col: 0
+Parsed: # at row: 29 col: 1
+Parsed: # at row: 29 col: 2
+Parsed: # at row: 29 col: 3
+Parsed: # at row: 29 col: 4
+Parsed: # at row: 29 col: 5
+Parsed: # at row: 29 col: 6
+Parsed: # at row: 29 col: 7
+Parsed: # at row: 29 col: 8
+Parsed: # at row: 29 col: 9
+Parsed: # at row: 29 col: 10
+Parsed: # at row: 29 col: 11
+Parsed: # at row: 29 col: 12
+Parsed: # at row: 29 col: 13
+Parsed: # at row: 29 col: 14
+Parsed: # at row: 29 col: 15
+Parsed: # at row: 29 col: 16
+Parsed: # at row: 29 col: 17
+Parsed: # at row: 29 col: 18
+Parsed: # at row: 29 col: 19
+Parsed: # at row: 29 col: 20
+Parsed: # at row: 29 col: 21
+Parsed: # at row: 29 col: 22
+Parsed: # at row: 29 col: 23
+Parsed: # at row: 29 col: 24
+Parsed: # at row: 29 col: 25
+Parsed: # at row: 29 col: 26
+Parsed: # at row: 29 col: 27
+Parsed: # at row: 29 col: 28
+Parsed: # at row: 29 col: 29
+Parsed: # at row: 29 col: 30
+Parsed: # at row: 29 col: 31
+Parsed: # at row: 29 col: 32
+Parsed: # at row: 29 col: 33
+Parsed: # at row: 29 col: 34
+Parsed: # at row: 29 col: 35
+CHOSEN: PACMAN
+loaded image: Assets/pacman_move.png
+loaded image: Assets/pacman_die.png
+loaded image: Assets/stop.png
+loaded image: Assets/breakW.png
+loaded image: Assets/heart.png
+creating ghost 0
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_red.png
+creating ghost 1
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_pink.png
+creating ghost 2
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_orange.png
+creating ghost 3
+
+loaded image: Assets/ghost_flee.png
+loaded image: Assets/ghost_dead.png
+loaded image: Assets/ghost_move_blue.png
+Key with keycode 4 down
+Key with keycode 4 down
+Ghost 1 = 20
+Ghost 3 = 20
+Ghost 1 = 19
+Ghost 3 = 19
+Ghost 1 = 18
+Ghost 3 = 18
+Ghost 1 = 17
+Ghost 3 = 17
+Ghost 1 = 13
+Ghost 3 = 13
+Ghost 1 = 12
+Ghost 1 = 11
+Ghost 3 = 13
+Ghost 1 = 10
+Ghost 3 = 12
+Ghost 1 = 11
+Ghost 3 = 11
+Ghost 1 = 12
+Ghost 3 = 10
+Ghost 1 = 13
+Ghost 1 = 13
+Ghost 3 = 7
+Ghost 1 = 12
+Ghost 3 = 6
+Ghost 1 = 11
+Ghost 3 = 5
+Ghost 1 = 10
+Ghost 3 = 4
+Ghost 1 = 11
+Ghost 1 = 12
+Ghost 1 = 13
+Ghost 1 = 13
+collide with ghost
+
+timer: 0
+timer: 0
+timer: 0
+timer: 0
+timer: 0
+timer: 0
+timer: 1
+timer: 1
+timer: 1
+timer: 1
+timer: 1
+timer: 1
+timer: 2
+timer: 2
+timer: 2
+timer: 2
+timer: 2
+timer: 3
+timer: 3
+timer: 3
+timer: 3
+timer: 3
+timer: 3
+timer: 3
+timer: 4
+timer: 4
+timer: 4
+timer: 4
+timer: 4
+timer: 4
+timer: 4
+timer: 5
+timer: 5
+timer: 5
+timer: 5
+timer: 5
+timer: 5
+timer: 5
+timer: 6
+timer: 6
+timer: 6
+timer: 6
+timer: 6
+timer: 6
+timer: 6
+timer: 7
+timer: 7
+timer: 7
+timer: 7
+timer: 7
+timer: 7
+timer: 7
+timer: 8
+timer: 8
+timer: 8
+timer: 8
+timer: 8
+timer: 8
+timer: 8
+timer: 9
+timer: 9
+timer: 9
+timer: 9
+timer: 9
+timer: 9
+timer: 10
+timer: 10
+timer: 10
+timer: 10
+timer: 10
+timer: 10
+timer: 10
+timer: 11
+timer: 11
+timer: 11
+timer: 11
+timer: 11
+timer: 11
+timer: 12
+timer: 12
+timer: 12
+timer: 12
+timer: 12
+timer: 12
+timer: 13
+Cont: 1619
+Key with keycode 1 down
+Key with keycode 23 down
+Ghost 1 = 19
+Ghost 3 = 19
+Ghost 1 = 17
+Ghost 3 = 17
+Key with keycode 4 down
+Ghost 3 = 17
+Ghost 1 = 13
+Ghost 3 = 17
+Ghost 1 = 11
+Ghost 3 = 17
+Key with keycode 23 down
+Ghost 3 = 17
+Ghost 1 = 7
+Ghost 3 = 17
+Key with keycode 4 down
+Ghost 1 = 5
+Ghost 3 = 17
+Key with keycode 23 down
+Ghost 3 = 17
+Ghost 3 = 17
+Key with keycode 4 down
+Ghost 3 = 17
+collide with ghost
+
+timer: 0
+timer: 0
+timer: 0
+timer: 0
+timer: 0
+timer: 0
+timer: 1
+timer: 1
+timer: 1
+timer: 1
+timer: 1
+timer: 1
+timer: 2
+timer: 2
+timer: 2
+timer: 2
+timer: 2
+timer: 2
+timer: 2
+timer: 3
+timer: 3
+timer: 3
+timer: 3
+timer: 3
+timer: 3
+timer: 4
+timer: 4
+timer: 4
+timer: 4
+timer: 4
+timer: 4
+timer: 5
+timer: 5
+timer: 5
+timer: 5
+timer: 5
+timer: 5
+timer: 6
+timer: 6
+timer: 6
+timer: 6
+timer: 6
+timer: 7
+timer: 7
+timer: 7
+timer: 7
+timer: 7
+timer: 7
+timer: 7
+timer: 8
+timer: 8
+timer: 8
+timer: 8
+timer: 8
+timer: 8
+timer: 9
+timer: 9
+timer: 9
+timer: 9
+timer: 9
+timer: 9
+timer: 10
+timer: 10
+timer: 10
+timer: 10
+timer: 10
+timer: 10
+timer: 10
+timer: 11
+timer: 11
+timer: 11
+timer: 11
+timer: 11
+timer: 12
+timer: 12
+timer: 12
+timer: 12
+timer: 12
+timer: 12
+timer: 13
+Cont: 2498
+Key with keycode 4 down
+Key with keycode 23 down
+Ghost 1 = 20
+Ghost 3 = 20
+Ghost 1 = 18
+Ghost 3 = 18
+Key with keycode 4 down
+Ghost 1 = 12
+Ghost 3 = 12
+Ghost 1 = 12
+Ghost 3 = 12
+Ghost 1 = 10
+Ghost 3 = 10
+Key with keycode 23 down
+Ghost 1 = 6
+Ghost 3 = 6
+Ghost 1 = 4
+Ghost 3 = 4
+Key with keycode 1 down
+collide with ghost
+
+timer: 0
+Game Over
+timer: 0
+Game Over
+timer: 0
+Game Over
+timer: 0
+Game Over
+timer: 0
+Game Over
+timer: 1
+Game Over
+timer: 1
+Game Over
+timer: 1
+Game Over
+timer: 1
+Game Over
+timer: 1
+Game Over
+timer: 1
+Game Over
+timer: 2
+Game Over
+timer: 2
+Game Over
+timer: 2
+Game Over
+timer: 2
+Game Over
+timer: 2
+Game Over
+timer: 2
+Game Over
+timer: 2
+Game Over
+timer: 3
+Game Over
+timer: 3
+Game Over
+timer: 3
+Game Over
+timer: 3
+Game Over
+timer: 3
+Game Over
+timer: 4
+Game Over
+timer: 4
+Game Over
+timer: 4
+Game Over
+timer: 4
+Game Over
+timer: 4
+Game Over
+timer: 4
+Game Over
+timer: 4
+Game Over
+timer: 5
+Game Over
+timer: 5
+Game Over
+timer: 5
+Game Over
+timer: 5
+Game Over
+timer: 5
+Game Over
+timer: 5
+Game Over
+timer: 5
+Game Over
+timer: 5
+Game Over
+timer: 6
+Game Over
+timer: 6
+Game Over
+timer: 6
+Game Over
+timer: 6
+Game Over
+timer: 6
+Game Over
+timer: 6
+Game Over
+timer: 6
+Game Over
+timer: 7
+Game Over
+timer: 7
+Game Over
+timer: 7
+Game Over
+timer: 7
+Game Over
+timer: 7
+Game Over
+timer: 7
+Game Over
+timer: 7
+Game Over
+timer: 7
+Game Over
+timer: 8
+Game Over
+timer: 8
+Game Over
+timer: 8
+Game Over
+timer: 8
+Game Over
+timer: 8
+Game Over
+timer: 8
+Game Over
+timer: 8
+Game Over
+timer: 9
+Game Over
+timer: 9
+Game Over
+timer: 9
+Game Over
+timer: 9
+Game Over
+timer: 9
+Game Over
+timer: 9
+Game Over
+timer: 9
+Game Over
+timer: 10
+Game Over
+timer: 10
+Game Over
+timer: 10
+Game Over
+timer: 10
+Game Over
+timer: 10
+Game Over
+timer: 10
+Game Over
+timer: 10
+Game Over
+timer: 10
+Game Over
+timer: 11
+Game Over
+timer: 11
+Game Over
+timer: 11
+Game Over
+timer: 11
+Game Over
+timer: 11
+Game Over
+timer: 11
+Game Over
+timer: 11
+Game Over
+timer: 12
+Game Over
+timer: 12
+Game Over
+timer: 12
+Game Over
+timer: 12
+Game Over
+timer: 12
+Game Over
+timer: 12
+Game Over
+timer: 12
+Game Over
+timer: 12
+Game Over
+Time: 2292 ~ 17.91 
+Over scene created
+Change scene from Start to Over
+main game destroyed
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/over.png
+loaded image: Assets/podium.png
+Key with keycode 67 down
+Saving: Input 33 19.91
+Data Saved
+Header Updated
+Total Rows Found
+Ready to parse content
+Parsed & Sorted
+tests
+Input
+tuhan
+Total Played: 33
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+tests: 493
+Input: 180
+tuhan: 88
+Key with keycode 67 down
+Menu scene created
+Change scene from Over to Menu
+Over Destroyed
+loaded image: Assets/settings.png
+loaded image: Assets/settings2.png
+loaded image: Assets/rankRaw.png
+loaded image: Assets/rankRaw(1).png
+loaded image: Assets/btnJohn(1).png
+loaded image: Assets/btnJohn.png
+loaded image: Assets/p_c.png
+loaded image: Assets/p_c(1).png
+loaded image: Assets/title.png
+Total Rows Found
+Ready to parse content
+Parsed & Sorted
+Settings scene created
+Change scene from Menu to Settings
+Menu Destroyed
+loaded image: Assets/bar.png
+loaded image: Assets/bar.png
+Window close button clicked
+Setting Destroyed
+Game Destroyed
+Game end
